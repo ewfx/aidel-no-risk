@@ -48,6 +48,8 @@ We have used "gemma2:2b" and google's "flan t5" for Q&A retrival and "distilrobe
 Knowledge base for LLM is using ChromaDB as vector database.\
 For data ingestion, we are using edgartools along with tweepy.
 
+![Alt text](https://cdn-lfs-us-1.hf.co/repos/13/3d/133d8ca2460bf82ba2bdbe928d91a6c780364a6d0cf9005087db081cca492c02/ed22547b1538ea4fd18ea26777e14d9f7e51b3388b34d3cadf165cc37a7f63e0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27RAG_workflow.png%3B+filename%3D%22RAG_workflow.png%22%3B&response-content-type=image%2Fpng&Expires=1742993952&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mjk5Mzk1Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zLzEzLzNkLzEzM2Q4Y2EyNDYwYmY4MmJhMmJkYmU5MjhkOTFhNmM3ODAzNjRhNmQwY2Y5MDA1MDg3ZGIwODFjY2E0OTJjMDIvZWQyMjU0N2IxNTM4ZWE0ZmQxOGVhMjY3NzdlMTRkOWY3ZTUxYjMzODhiMzRkM2NhZGYxNjVjYzM3YTdmNjNlMD9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=iWCs2ogL7nMxBP9zfKQgnRYZi9-KNd9lksrztM8c9s7yJBAEl6RKpdv9ButJKGmS932TJkPrNOZGqcRZPusHbqGprf2QCDaCIkFF0RW8MUgLfTNX%7EfBb3%7EpKSwmTvCQULsAaJy0UXojouqMSxSQUVOtEIReeotMU2KZ05NcajX8eDBg0LXgzLoh37qlwXBqMbQXv61-rnYtULSDHO5PfkksfWY2bFE1FNORLCWRmXTzEm6BiAn29Ao0cXla5mrX9Z9sCYMTP3SJV2%7EBBctluV8rBVKaSgOuC9%7EXv3QicOgB%7EoWUa7FZKHUGlEX49xYXVe7kO5NXALikv7fXNrTOgbA__&Key-Pair-Id=K24J24Z295AEI9 "RAG flow")
+
 ## 🚧 Challenges We Faced
 There were three major challenges for solving this problem. 
 - First and foremost was knowledge. This problem is an open ended problem and we had a tough time nailing down what we wanted our application to achieve.\
