@@ -49,6 +49,15 @@ Describe the major technical or non-technical challenges your team encountered.
    ```sh
    pip install -r requirements.txt
    ```
+3. Populate initial records i.e. download static data from SEC
+   ```sh
+   cd aidel-no-risk
+   mkdir -p data/sec-edgar-data/sec-data
+   cd code/src
+   python import_and_store_sec_data.py
+   python populate_data_in_vectordb.py
+   ```
+   
 3. Run the project  
    ```sh
    cd aidel-no-risk
