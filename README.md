@@ -101,5 +101,5 @@ There were three major challenges for solving this problem.
 - 🔹 Other: edgartools
 
 ## 👥 Team
-- **Your Name** - [GitHub Piyush](# https://github.com/piyjoshi) | [LinkedIn Piyush](# https://www.linkedin.com/in/piyushsjoshi/)
+- **Your Name** - [GitHub](https://github.com/piyjoshi) | [LinkedIn](https://www.linkedin.com/in/piyushsjoshi/)
 - **Teammate 2** - [GitHub](#) | [LinkedIn](#)
