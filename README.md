@@ -43,12 +43,13 @@ We have automated fetching of records from social media in near real-time so tha
 
 ## 🛠️ How We Built It
 we have leveraged huggingface APIs for building LLM pipelines.\
+Our initial aim was to train an LLM on data from SEC-EDGAR and social media. However, it proved to be a bigger challenge due to infrastructure and time constraints.
 We have used "gemma2:2b" and google's "flan t5" for Q&A retrival and "distilroberta" for calculating risk score.\
 Knowledge base for LLM is using ChromaDB as vector database.\
 For data ingestion, we are using edgartools along with tweey.
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+There were two major challenges for solving this problem. One was how
 
 ## 🏃 How to Run
 1. Clone the repository  
