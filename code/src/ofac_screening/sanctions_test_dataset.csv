@@ -1,0 +1,1001 @@
+Transaction ID,Payer Name,Receiver Name,Transaction Details,Amount,Receiver Country
+TXN4493,Global Health Foundation,XYZ Ltd,Consulting fees,"$6,078",Germany
+TXN9354,CASA DE CUBA,Apple Inc,Project funding,"$320,000",Japan
+TXN6940,Green Earth Org,Save the Children,Goods purchase,"$48,764",Somalia
+TXN3829,Acme Corp,SovCo Capital Partners,Consulting fees,"$37,141",Japan
+TXN9475,ROSNEFT,AL-BARAKAAT,Project funding,"$2,190,000",Somalia
+TXN4134,Apple Inc,AL-BARAKAAT,Project funding,"$280,000",Somalia
+TXN8326,AEROCARIBBEAN AIRLINES,AEROCARIBBEAN AIRLINES,Project funding,"$2,730,000",Cuba
+TXN4173,Acme Corp,Global Health Foundation,Payment for services,"$48,520",Germany
+TXN6526,Microsoft,SovCo Capital Partners,Grant disbursement,"$63,911",Cuba
+TXN6891,AL-BARAKAAT,Acme Corp,Project funding,"$400,000",Japan
+TXN8416,"CIMEX, S.A.",Save the Children,Consulting fees,"$960,000",Germany
+TXN4806,ABC GmbH,CCMI,Payment for services,"$22,862",Canada
+TXN4389,Save the Children,Microsoft,Payment for services,"$9,537",Germany
+TXN6807,BANCO NACIONAL DE CUBA,CASA DE CUBA,Goods purchase,"$3,050,000",Cuba
+TXN8344,ABC GmbH,Apple Inc,Grant disbursement,"$71,871",Syria
+TXN1469,Save the Children,SovCo Capital Partners,Grant disbursement,"$16,961",North Korea
+TXN5274,Acme Corp,ISLAMIC REVOLUTIONARY GUARD CORPS,Grant disbursement,"$360,000",Iran
+TXN9135,Green Earth Org,BANCO NACIONAL DE CUBA,Project funding,"$280,000",Cuba
+TXN3677,Save the Children,ROSNEFT,Consulting fees,"$450,000",Russia
+TXN2163,SovCo Capital Partners,CCMI,Grant disbursement,"$31,594",Cayman Islands
+TXN6962,ABC GmbH,Microsoft,Grant disbursement,"$66,906",Russia
+TXN5904,Microsoft,SovCo Capital Partners,Consulting fees,"$83,987",Syria
+TXN2275,"CIMEX, S.A.",Apple Inc,Payment for services,"$990,000",Canada
+TXN2750,ISLAMIC REVOLUTIONARY GUARD CORPS,"CIMEX, S.A.",Grant disbursement,"$4,970,000",Cuba
+TXN1561,XYZ Ltd,"CIMEX, S.A.",Project funding,"$50,927",Cuba
+TXN6383,Green Earth Org,Acme Corp,Payment for services,"$91,858",Cuba
+TXN9731,ABC GmbH,XYZ Ltd,Payment for services,"$56,830",Iran
+TXN8007,AL-BARAKAAT,SovCo Capital Partners,Payment for services,"$960,000",Germany
+TXN7300,CCMI,Global Health Foundation,Project funding,"$34,923",Germany
+TXN3954,SovCo Capital Partners,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$310,000",Russia
+TXN1259,ABC GmbH,KIM JONG UN,Consulting fees,"$370,000",North Korea
+TXN9071,AL-BARAKAAT,RUSSIAN NATIONAL COMMERCIAL BANK,Grant disbursement,"$4,490,000",Russia
+TXN3929,Global Health Foundation,Green Earth Org,Grant disbursement,"$31,156",Germany
+TXN6983,Microsoft,Microsoft,Goods purchase,"$49,839",Mauritius
+TXN9547,CASA DE CUBA,XYZ Ltd,Payment for services,"$490,000",USA
+TXN4517,KIM JONG UN,Global Health Foundation,Payment for services,"$290,000",USA
+TXN9895,Microsoft,RUSSIAN NATIONAL COMMERCIAL BANK,Grant disbursement,"$280,000",Russia
+TXN1683,XYZ Ltd,Acme Corp,Project funding,"$20,481",North Korea
+TXN3931,CASA DE CUBA,CCMI,Goods purchase,"$790,000",Canada
+TXN7152,Global Health Foundation,PETROLEOS DE VENEZUELA S.A.,Grant disbursement,"$370,000",Venezuela
+TXN9147,KIM JONG UN,ISLAMIC REVOLUTIONARY GUARD CORPS,Payment for services,"$670,000",Iran
+TXN1902,Green Earth Org,Save the Children,Project funding,"$19,774",Somalia
+TXN2693,Green Earth Org,Apple Inc,Project funding,"$65,813",Russia
+TXN6238,Acme Corp,CCMI,Consulting fees,"$33,187",Somalia
+TXN2643,KIM JONG UN,PETROLEOS DE VENEZUELA S.A.,Goods purchase,"$4,430,000",Venezuela
+TXN5592,SovCo Capital Partners,ISLAMIC REVOLUTIONARY GUARD CORPS,Project funding,"$180,000",Iran
+TXN7989,Green Earth Org,SovCo Capital Partners,Grant disbursement,"$40,053",Somalia
+TXN3131,Global Health Foundation,AEROCARIBBEAN AIRLINES,Project funding,"$480,000",Cuba
+TXN1159,AL-BARAKAAT,Global Health Foundation,Project funding,"$920,000",Japan
+TXN3043,CCMI,Save the Children,Payment for services,"$17,452",Mauritius
+TXN6467,XYZ Ltd,SovCo Capital Partners,Grant disbursement,"$23,714",USA
+TXN6694,XYZ Ltd,SovCo Capital Partners,Grant disbursement,"$8,920",UK
+TXN3957,Acme Corp,Acme Corp,Grant disbursement,"$25,164",USA
+TXN1690,BANCO NACIONAL DE CUBA,"CIMEX, S.A.",Consulting fees,"$1,460,000",Cuba
+TXN3156,Apple Inc,XYZ Ltd,Project funding,"$24,877",Syria
+TXN1726,Microsoft,CCMI,Goods purchase,"$49,542",UK
+TXN5685,ABC GmbH,Acme Corp,Project funding,"$59,912",Russia
+TXN2969,Apple Inc,Save the Children,Payment for services,"$33,858",Cuba
+TXN8946,SovCo Capital Partners,Global Health Foundation,Project funding,"$34,761",Japan
+TXN6181,XYZ Ltd,CASA DE CUBA,Goods purchase,"$170,000",Cuba
+TXN1617,Save the Children,AL-BARAKAAT,Goods purchase,"$220,000",Somalia
+TXN6395,SovCo Capital Partners,Microsoft,Payment for services,"$25,847",USA
+TXN6632,CASA DE CUBA,ABC GmbH,Project funding,"$440,000",Canada
+TXN3387,KIM JONG UN,KIM JONG UN,Project funding,"$3,620,000",North Korea
+TXN3872,ABC GmbH,Acme Corp,Grant disbursement,"$46,946",Venezuela
+TXN6003,AL-BARAKAAT,Save the Children,Goods purchase,"$200,000",USA
+TXN6041,BANCO NACIONAL DE CUBA,Green Earth Org,Consulting fees,"$260,000",Canada
+TXN7441,Apple Inc,Save the Children,Consulting fees,"$27,151",Mauritius
+TXN3632,Save the Children,XYZ Ltd,Consulting fees,"$47,759",USA
+TXN6860,SovCo Capital Partners,Green Earth Org,Consulting fees,"$36,414",Venezuela
+TXN4774,Green Earth Org,XYZ Ltd,Consulting fees,"$20,000",Somalia
+TXN2851,SovCo Capital Partners,Microsoft,Goods purchase,"$21,383",Panama
+TXN2506,ISLAMIC REVOLUTIONARY GUARD CORPS,Global Health Foundation,Payment for services,"$320,000",Canada
+TXN2185,AL-BARAKAAT,ISLAMIC REVOLUTIONARY GUARD CORPS,Payment for services,"$870,000",Iran
+TXN1845,AL-BARAKAAT,AL-BARAKAAT,Goods purchase,"$1,490,000",Somalia
+TXN9970,Acme Corp,Save the Children,Project funding,"$44,663",Cayman Islands
+TXN1565,Save the Children,Microsoft,Consulting fees,"$15,079",Panama
+TXN1988,ROSNEFT,KIM JONG UN,Goods purchase,"$2,720,000",North Korea
+TXN8745,KIM JONG UN,Microsoft,Grant disbursement,"$1,000,000",Germany
+TXN1774,CCMI,RUSSIAN NATIONAL COMMERCIAL BANK,Goods purchase,"$85,294",Russia
+TXN2451,Global Health Foundation,SovCo Capital Partners,Goods purchase,"$55,785",Iran
+TXN6327,Global Health Foundation,Microsoft,Project funding,"$31,698",Mauritius
+TXN1750,PETROLEOS DE VENEZUELA S.A.,ROSNEFT,Grant disbursement,"$2,860,000",Russia
+TXN1313,SovCo Capital Partners,AL-BARAKAAT,Payment for services,"$280,000",Somalia
+TXN9018,SovCo Capital Partners,Save the Children,Grant disbursement,"$48,411",Panama
+TXN3552,Save the Children,Acme Corp,Grant disbursement,"$14,282",Cayman Islands
+TXN2925,Apple Inc,ISLAMIC REVOLUTIONARY GUARD CORPS,Grant disbursement,"$240,000",Iran
+TXN2093,PETROLEOS DE VENEZUELA S.A.,"CIMEX, S.A.",Grant disbursement,"$4,810,000",Cuba
+TXN4074,SovCo Capital Partners,Green Earth Org,Goods purchase,"$27,286",UK
+TXN1527,Acme Corp,Apple Inc,Grant disbursement,"$43,314",Germany
+TXN2214,RUSSIAN NATIONAL COMMERCIAL BANK,ISLAMIC REVOLUTIONARY GUARD CORPS,Payment for services,"$760,000",Iran
+TXN5069,ISLAMIC REVOLUTIONARY GUARD CORPS,Apple Inc,Project funding,"$170,000",Germany
+TXN6702,Microsoft,CASA DE CUBA,Project funding,"$280,000",Cuba
+TXN6794,"CIMEX, S.A.",AEROCARIBBEAN AIRLINES,Payment for services,"$2,970,000",Cuba
+TXN2275,Green Earth Org,Green Earth Org,Payment for services,"$37,349",Cayman Islands
+TXN3882,RUSSIAN NATIONAL COMMERCIAL BANK,Green Earth Org,Grant disbursement,"$210,000",USA
+TXN9808,CCMI,PETROLEOS DE VENEZUELA S.A.,Goods purchase,"$260,000",Venezuela
+TXN3936,Acme Corp,AL-BARAKAAT,Grant disbursement,"$96,892",Somalia
+TXN7972,ABC GmbH,Global Health Foundation,Grant disbursement,"$60,178",Venezuela
+TXN7265,Global Health Foundation,Acme Corp,Consulting fees,"$31,457",Cayman Islands
+TXN6846,ABC GmbH,CCMI,Project funding,"$47,237",USA
+TXN3773,Apple Inc,Acme Corp,Goods purchase,"$98,888",Venezuela
+TXN5795,Green Earth Org,Green Earth Org,Consulting fees,"$34,209",UK
+TXN1074,ABC GmbH,Global Health Foundation,Consulting fees,"$90,311",North Korea
+TXN3529,SovCo Capital Partners,AEROCARIBBEAN AIRLINES,Grant disbursement,"$400,000",Cuba
+TXN9406,KIM JONG UN,RUSSIAN NATIONAL COMMERCIAL BANK,Project funding,"$3,420,000",Russia
+TXN8380,ROSNEFT,ABC GmbH,Goods purchase,"$530,000",UK
+TXN4269,SovCo Capital Partners,Global Health Foundation,Payment for services,"$10,947",USA
+TXN2416,Acme Corp,Acme Corp,Grant disbursement,"$25,785",Russia
+TXN4895,Acme Corp,Acme Corp,Payment for services,"$58,524",Iran
+TXN1458,Global Health Foundation,CCMI,Consulting fees,"$22,972",Cuba
+TXN3687,AEROCARIBBEAN AIRLINES,Apple Inc,Payment for services,"$980,000",Japan
+TXN3794,Microsoft,Green Earth Org,Grant disbursement,"$25,978",USA
+TXN8581,Microsoft,Green Earth Org,Consulting fees,"$43,861",Mauritius
+TXN8935,Apple Inc,CCMI,Grant disbursement,"$30,945",Japan
+TXN7822,"CIMEX, S.A.",KIM JONG UN,Consulting fees,"$3,650,000",North Korea
+TXN6798,PETROLEOS DE VENEZUELA S.A.,ABC GmbH,Goods purchase,"$210,000",Canada
+TXN5597,PETROLEOS DE VENEZUELA S.A.,Green Earth Org,Consulting fees,"$540,000",Germany
+TXN2043,ISLAMIC REVOLUTIONARY GUARD CORPS,XYZ Ltd,Consulting fees,"$450,000",USA
+TXN6634,ABC GmbH,"CIMEX, S.A.",Project funding,"$170,000",Cuba
+TXN1513,Global Health Foundation,Green Earth Org,Payment for services,"$48,412",Panama
+TXN9059,SovCo Capital Partners,SovCo Capital Partners,Payment for services,"$9,488",Somalia
+TXN1941,Acme Corp,CCMI,Payment for services,"$14,137",Cayman Islands
+TXN4479,XYZ Ltd,Apple Inc,Payment for services,"$89,959",Syria
+TXN1912,RUSSIAN NATIONAL COMMERCIAL BANK,SovCo Capital Partners,Consulting fees,"$410,000",Germany
+TXN2041,AL-BARAKAAT,Global Health Foundation,Goods purchase,"$670,000",USA
+TXN7235,SovCo Capital Partners,Microsoft,Grant disbursement,"$31,351",Cuba
+TXN6431,ROSNEFT,BANCO NACIONAL DE CUBA,Grant disbursement,"$3,520,000",Cuba
+TXN5606,CASA DE CUBA,ABC GmbH,Grant disbursement,"$840,000",Japan
+TXN5125,Apple Inc,PETROLEOS DE VENEZUELA S.A.,Project funding,"$160,000",Venezuela
+TXN2294,CASA DE CUBA,ABC GmbH,Consulting fees,"$130,000",Germany
+TXN6799,"CIMEX, S.A.",SovCo Capital Partners,Consulting fees,"$470,000",Japan
+TXN3666,ROSNEFT,RUSSIAN NATIONAL COMMERCIAL BANK,Grant disbursement,"$2,270,000",Russia
+TXN3959,SovCo Capital Partners,SovCo Capital Partners,Goods purchase,"$48,610",Canada
+TXN6153,ABC GmbH,SovCo Capital Partners,Goods purchase,"$79,362",Cuba
+TXN3062,Apple Inc,Green Earth Org,Payment for services,"$44,958",Cayman Islands
+TXN7791,XYZ Ltd,Green Earth Org,Payment for services,"$48,402",UK
+TXN6373,AL-BARAKAAT,PETROLEOS DE VENEZUELA S.A.,Project funding,"$2,860,000",Venezuela
+TXN4799,Save the Children,Apple Inc,Consulting fees,"$14,863",Cayman Islands
+TXN6302,AEROCARIBBEAN AIRLINES,AL-BARAKAAT,Payment for services,"$4,090,000",Somalia
+TXN1576,ABC GmbH,ABC GmbH,Goods purchase,"$31,866",Syria
+TXN5353,SovCo Capital Partners,Save the Children,Payment for services,"$25,815",Germany
+TXN3665,Green Earth Org,Microsoft,Grant disbursement,"$28,373",Japan
+TXN9818,Apple Inc,CCMI,Payment for services,"$7,219",Cayman Islands
+TXN7255,CCMI,Acme Corp,Consulting fees,"$38,797",Somalia
+TXN9144,AEROCARIBBEAN AIRLINES,AEROCARIBBEAN AIRLINES,Payment for services,"$1,710,000",Cuba
+TXN7100,ROSNEFT,XYZ Ltd,Goods purchase,"$940,000",Germany
+TXN9007,PETROLEOS DE VENEZUELA S.A.,ROSNEFT,Project funding,"$1,840,000",Russia
+TXN8589,RUSSIAN NATIONAL COMMERCIAL BANK,Global Health Foundation,Project funding,"$950,000",Canada
+TXN8340,XYZ Ltd,Green Earth Org,Consulting fees,"$74,776",North Korea
+TXN4119,"CIMEX, S.A.",ROSNEFT,Project funding,"$1,560,000",Russia
+TXN6395,"CIMEX, S.A.",ROSNEFT,Project funding,"$2,200,000",Russia
+TXN4756,CCMI,SovCo Capital Partners,Payment for services,"$27,569",UK
+TXN3285,CASA DE CUBA,Acme Corp,Payment for services,"$600,000",Canada
+TXN3521,CCMI,"CIMEX, S.A.",Payment for services,"$480,000",Cuba
+TXN7218,"CIMEX, S.A.",RUSSIAN NATIONAL COMMERCIAL BANK,Project funding,"$1,330,000",Russia
+TXN2733,"CIMEX, S.A.","CIMEX, S.A.",Goods purchase,"$2,820,000",Cuba
+TXN5497,Global Health Foundation,Apple Inc,Goods purchase,"$97,484",Venezuela
+TXN4396,Microsoft,AL-BARAKAAT,Consulting fees,"$250,000",Somalia
+TXN2786,ROSNEFT,XYZ Ltd,Grant disbursement,"$390,000",Japan
+TXN7203,Microsoft,Global Health Foundation,Payment for services,"$71,576",Russia
+TXN4167,ABC GmbH,Save the Children,Grant disbursement,"$15,619",Panama
+TXN7863,AL-BARAKAAT,XYZ Ltd,Payment for services,"$740,000",Canada
+TXN2965,BANCO NACIONAL DE CUBA,BANCO NACIONAL DE CUBA,Grant disbursement,"$3,680,000",Cuba
+TXN8360,ROSNEFT,Green Earth Org,Payment for services,"$680,000",Japan
+TXN8321,Save the Children,BANCO NACIONAL DE CUBA,Grant disbursement,"$170,000",Cuba
+TXN9748,ABC GmbH,XYZ Ltd,Goods purchase,"$5,909",Mauritius
+TXN4284,CCMI,Save the Children,Project funding,"$14,347",Iran
+TXN4377,ABC GmbH,SovCo Capital Partners,Grant disbursement,"$30,072",Somalia
+TXN6690,ISLAMIC REVOLUTIONARY GUARD CORPS,PETROLEOS DE VENEZUELA S.A.,Project funding,"$510,000",Venezuela
+TXN2639,Green Earth Org,Microsoft,Payment for services,"$19,556",Canada
+TXN8999,CASA DE CUBA,KIM JONG UN,Payment for services,"$3,460,000",North Korea
+TXN5079,XYZ Ltd,KIM JONG UN,Consulting fees,"$230,000",North Korea
+TXN2190,"CIMEX, S.A.",ROSNEFT,Grant disbursement,"$590,000",Russia
+TXN3351,XYZ Ltd,Green Earth Org,Grant disbursement,"$11,984",Germany
+TXN4982,CCMI,ABC GmbH,Grant disbursement,"$32,707",Somalia
+TXN7009,Acme Corp,ABC GmbH,Consulting fees,"$20,052",Cuba
+TXN3790,ROSNEFT,ISLAMIC REVOLUTIONARY GUARD CORPS,Grant disbursement,"$690,000",Iran
+TXN3986,Acme Corp,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$400,000",Russia
+TXN6637,Acme Corp,Apple Inc,Project funding,"$54,261",Iran
+TXN3784,BANCO NACIONAL DE CUBA,CASA DE CUBA,Payment for services,"$4,590,000",Cuba
+TXN2733,Microsoft,XYZ Ltd,Grant disbursement,"$20,840",Germany
+TXN8990,XYZ Ltd,Green Earth Org,Goods purchase,"$34,060",Russia
+TXN8401,Save the Children,Save the Children,Payment for services,"$16,723",Cayman Islands
+TXN5520,BANCO NACIONAL DE CUBA,SovCo Capital Partners,Grant disbursement,"$270,000",Japan
+TXN3664,Microsoft,Global Health Foundation,Grant disbursement,"$27,649",Somalia
+TXN1164,Apple Inc,Microsoft,Project funding,"$31,341",Germany
+TXN3963,Green Earth Org,Acme Corp,Consulting fees,"$38,002",Germany
+TXN2482,ABC GmbH,Global Health Foundation,Goods purchase,"$49,698",North Korea
+TXN5577,Save the Children,ABC GmbH,Goods purchase,"$14,727",Cuba
+TXN9539,ROSNEFT,Acme Corp,Grant disbursement,"$330,000",USA
+TXN6624,"CIMEX, S.A.",Global Health Foundation,Project funding,"$610,000",Germany
+TXN8479,BANCO NACIONAL DE CUBA,Global Health Foundation,Payment for services,"$790,000",UK
+TXN4238,Acme Corp,Microsoft,Consulting fees,"$26,442",Syria
+TXN4971,AEROCARIBBEAN AIRLINES,Microsoft,Grant disbursement,"$360,000",Germany
+TXN2114,CASA DE CUBA,PETROLEOS DE VENEZUELA S.A.,Grant disbursement,"$3,940,000",Venezuela
+TXN8947,PETROLEOS DE VENEZUELA S.A.,Apple Inc,Project funding,"$490,000",USA
+TXN4286,XYZ Ltd,CCMI,Grant disbursement,"$32,460",Panama
+TXN8563,Apple Inc,XYZ Ltd,Project funding,"$95,748",Syria
+TXN7259,Acme Corp,AL-BARAKAAT,Consulting fees,"$370,000",Somalia
+TXN7601,ABC GmbH,Save the Children,Consulting fees,"$99,662",Cuba
+TXN4311,"CIMEX, S.A.","CIMEX, S.A.",Consulting fees,"$3,490,000",Cuba
+TXN7345,AEROCARIBBEAN AIRLINES,ROSNEFT,Grant disbursement,"$3,940,000",Russia
+TXN3645,ABC GmbH,Global Health Foundation,Goods purchase,"$71,570",Syria
+TXN8292,ROSNEFT,AL-BARAKAAT,Payment for services,"$560,000",Somalia
+TXN5689,BANCO NACIONAL DE CUBA,KIM JONG UN,Payment for services,"$3,390,000",North Korea
+TXN4153,CCMI,Microsoft,Project funding,"$15,861",Germany
+TXN6896,AEROCARIBBEAN AIRLINES,PETROLEOS DE VENEZUELA S.A.,Project funding,"$540,000",Venezuela
+TXN9923,XYZ Ltd,CASA DE CUBA,Consulting fees,"$230,000",Cuba
+TXN2767,ABC GmbH,Acme Corp,Project funding,"$34,740",Iran
+TXN6599,Global Health Foundation,Save the Children,Payment for services,"$20,152",Mauritius
+TXN1088,ISLAMIC REVOLUTIONARY GUARD CORPS,Save the Children,Project funding,"$290,000",USA
+TXN3895,KIM JONG UN,Global Health Foundation,Goods purchase,"$810,000",USA
+TXN7823,Save the Children,CCMI,Payment for services,"$73,516",Venezuela
+TXN7669,BANCO NACIONAL DE CUBA,Microsoft,Payment for services,"$730,000",Germany
+TXN4062,AEROCARIBBEAN AIRLINES,PETROLEOS DE VENEZUELA S.A.,Project funding,"$4,130,000",Venezuela
+TXN6636,SovCo Capital Partners,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$270,000",Russia
+TXN7630,RUSSIAN NATIONAL COMMERCIAL BANK,"CIMEX, S.A.",Project funding,"$3,190,000",Cuba
+TXN5251,XYZ Ltd,ABC GmbH,Grant disbursement,"$11,646",Germany
+TXN6674,XYZ Ltd,Green Earth Org,Project funding,"$15,419",Mauritius
+TXN9101,"CIMEX, S.A.",Apple Inc,Grant disbursement,"$200,000",Canada
+TXN4256,Green Earth Org,Global Health Foundation,Project funding,"$26,692",Canada
+TXN8195,KIM JONG UN,AL-BARAKAAT,Project funding,"$4,670,000",Somalia
+TXN9999,ISLAMIC REVOLUTIONARY GUARD CORPS,AL-BARAKAAT,Goods purchase,"$4,250,000",Somalia
+TXN2781,Green Earth Org,AEROCARIBBEAN AIRLINES,Goods purchase,"$110,000",Cuba
+TXN2144,Global Health Foundation,Microsoft,Payment for services,"$26,144",Russia
+TXN1348,Green Earth Org,ABC GmbH,Payment for services,"$32,014",USA
+TXN7995,"CIMEX, S.A.",ISLAMIC REVOLUTIONARY GUARD CORPS,Goods purchase,"$1,780,000",Iran
+TXN1958,Microsoft,Microsoft,Goods purchase,"$48,849",Canada
+TXN8405,XYZ Ltd,"CIMEX, S.A.",Grant disbursement,"$330,000",Cuba
+TXN1473,Green Earth Org,ISLAMIC REVOLUTIONARY GUARD CORPS,Grant disbursement,"$130,000",Iran
+TXN4955,Acme Corp,KIM JONG UN,Goods purchase,"$54,371",North Korea
+TXN9032,CASA DE CUBA,Acme Corp,Consulting fees,"$480,000",USA
+TXN4400,Apple Inc,Global Health Foundation,Payment for services,"$25,498",Germany
+TXN8924,Global Health Foundation,ABC GmbH,Goods purchase,"$48,303",Cayman Islands
+TXN3411,ISLAMIC REVOLUTIONARY GUARD CORPS,Microsoft,Project funding,"$720,000",UK
+TXN1656,ISLAMIC REVOLUTIONARY GUARD CORPS,Green Earth Org,Consulting fees,"$430,000",Canada
+TXN6900,Apple Inc,XYZ Ltd,Project funding,"$72,931",North Korea
+TXN4072,ROSNEFT,Save the Children,Grant disbursement,"$350,000",Canada
+TXN2509,Green Earth Org,Green Earth Org,Payment for services,"$28,673",Somalia
+TXN7653,Save the Children,Save the Children,Consulting fees,"$92,163",Syria
+TXN2575,Apple Inc,Save the Children,Grant disbursement,"$19,722",Canada
+TXN4512,CCMI,KIM JONG UN,Goods purchase,"$360,000",North Korea
+TXN3634,"CIMEX, S.A.",ROSNEFT,Goods purchase,"$4,060,000",Russia
+TXN4625,AEROCARIBBEAN AIRLINES,ABC GmbH,Project funding,"$870,000",UK
+TXN5982,Acme Corp,KIM JONG UN,Consulting fees,"$220,000",North Korea
+TXN6078,CASA DE CUBA,XYZ Ltd,Payment for services,"$320,000",UK
+TXN6993,CCMI,Microsoft,Payment for services,"$25,236",Iran
+TXN4305,Microsoft,Apple Inc,Consulting fees,"$32,476",Canada
+TXN7261,SovCo Capital Partners,Green Earth Org,Project funding,"$24,190",Somalia
+TXN1705,Global Health Foundation,SovCo Capital Partners,Goods purchase,"$46,832",Japan
+TXN4564,RUSSIAN NATIONAL COMMERCIAL BANK,Acme Corp,Payment for services,"$370,000",Canada
+TXN7234,AL-BARAKAAT,Microsoft,Grant disbursement,"$800,000",UK
+TXN1673,Apple Inc,Global Health Foundation,Consulting fees,"$25,607",Germany
+TXN6977,ROSNEFT,"CIMEX, S.A.",Goods purchase,"$2,830,000",Cuba
+TXN1030,Green Earth Org,PETROLEOS DE VENEZUELA S.A.,Project funding,"$96,567",Venezuela
+TXN2581,XYZ Ltd,Acme Corp,Grant disbursement,"$78,103",Iran
+TXN2785,Save the Children,CCMI,Consulting fees,"$61,299",Iran
+TXN3441,ABC GmbH,Global Health Foundation,Grant disbursement,"$23,574",USA
+TXN6514,PETROLEOS DE VENEZUELA S.A.,SovCo Capital Partners,Grant disbursement,"$580,000",UK
+TXN5182,Green Earth Org,Save the Children,Project funding,"$88,743",Cuba
+TXN9529,KIM JONG UN,CCMI,Payment for services,"$510,000",Canada
+TXN8291,AL-BARAKAAT,RUSSIAN NATIONAL COMMERCIAL BANK,Project funding,"$2,800,000",Russia
+TXN7827,Green Earth Org,SovCo Capital Partners,Goods purchase,"$78,936",Syria
+TXN9353,RUSSIAN NATIONAL COMMERCIAL BANK,ABC GmbH,Consulting fees,"$340,000",Japan
+TXN4602,SovCo Capital Partners,Green Earth Org,Grant disbursement,"$99,624",Venezuela
+TXN4277,BANCO NACIONAL DE CUBA,PETROLEOS DE VENEZUELA S.A.,Consulting fees,"$1,690,000",Venezuela
+TXN5905,Green Earth Org,"CIMEX, S.A.",Consulting fees,"$180,000",Cuba
+TXN1888,Global Health Foundation,ABC GmbH,Goods purchase,"$24,125",Panama
+TXN2003,Apple Inc,AEROCARIBBEAN AIRLINES,Goods purchase,"$460,000",Cuba
+TXN5099,"CIMEX, S.A.",Microsoft,Consulting fees,"$550,000",Germany
+TXN7144,RUSSIAN NATIONAL COMMERCIAL BANK,Save the Children,Project funding,"$980,000",Germany
+TXN1959,SovCo Capital Partners,AL-BARAKAAT,Goods purchase,"$62,586",Somalia
+TXN2645,"CIMEX, S.A.",CASA DE CUBA,Payment for services,"$3,670,000",Cuba
+TXN3451,Green Earth Org,Acme Corp,Consulting fees,"$25,375",Russia
+TXN3042,Microsoft,XYZ Ltd,Consulting fees,"$33,875",Cayman Islands
+TXN4100,BANCO NACIONAL DE CUBA,Green Earth Org,Payment for services,"$140,000",Canada
+TXN5643,ROSNEFT,XYZ Ltd,Grant disbursement,"$680,000",Japan
+TXN7061,ABC GmbH,Global Health Foundation,Goods purchase,"$34,276",Somalia
+TXN6760,AL-BARAKAAT,Green Earth Org,Project funding,"$560,000",UK
+TXN5811,AL-BARAKAAT,ROSNEFT,Grant disbursement,"$520,000",Russia
+TXN7586,ABC GmbH,Save the Children,Consulting fees,"$74,598",Russia
+TXN9506,CCMI,SovCo Capital Partners,Payment for services,"$46,414",North Korea
+TXN3638,CCMI,Global Health Foundation,Goods purchase,"$9,514",Panama
+TXN6925,Acme Corp,ABC GmbH,Payment for services,"$24,035",Canada
+TXN4938,Acme Corp,Green Earth Org,Payment for services,"$10,615",Japan
+TXN8551,SovCo Capital Partners,Global Health Foundation,Consulting fees,"$37,499",Germany
+TXN7275,Apple Inc,CASA DE CUBA,Grant disbursement,"$410,000",Cuba
+TXN7603,ABC GmbH,RUSSIAN NATIONAL COMMERCIAL BANK,Goods purchase,"$220,000",Russia
+TXN5831,Apple Inc,CCMI,Payment for services,"$46,855",Somalia
+TXN5062,Apple Inc,Save the Children,Consulting fees,"$25,349",Mauritius
+TXN4687,Microsoft,Apple Inc,Goods purchase,"$85,681",Syria
+TXN3833,Save the Children,XYZ Ltd,Goods purchase,"$30,264",Cayman Islands
+TXN7202,Acme Corp,ISLAMIC REVOLUTIONARY GUARD CORPS,Goods purchase,"$210,000",Iran
+TXN7571,SovCo Capital Partners,CASA DE CUBA,Project funding,"$150,000",Cuba
+TXN3077,Global Health Foundation,Green Earth Org,Consulting fees,"$5,860",Mauritius
+TXN4803,ROSNEFT,"CIMEX, S.A.",Goods purchase,"$3,950,000",Cuba
+TXN8344,CCMI,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$140,000",Russia
+TXN8540,ROSNEFT,ROSNEFT,Goods purchase,"$1,370,000",Russia
+TXN7187,KIM JONG UN,CASA DE CUBA,Grant disbursement,"$3,560,000",Cuba
+TXN6313,Apple Inc,AL-BARAKAAT,Goods purchase,"$390,000",Somalia
+TXN5382,Save the Children,BANCO NACIONAL DE CUBA,Payment for services,"$120,000",Cuba
+TXN7257,BANCO NACIONAL DE CUBA,AL-BARAKAAT,Project funding,"$3,030,000",Somalia
+TXN8641,Microsoft,PETROLEOS DE VENEZUELA S.A.,Consulting fees,"$350,000",Venezuela
+TXN5208,Global Health Foundation,BANCO NACIONAL DE CUBA,Consulting fees,"$54,050",Cuba
+TXN2740,CCMI,Global Health Foundation,Project funding,"$83,739",Iran
+TXN2707,Acme Corp,Acme Corp,Goods purchase,"$44,337",Cayman Islands
+TXN9799,RUSSIAN NATIONAL COMMERCIAL BANK,ISLAMIC REVOLUTIONARY GUARD CORPS,Goods purchase,"$4,760,000",Iran
+TXN5719,Microsoft,XYZ Ltd,Payment for services,"$39,475",Panama
+TXN4277,AL-BARAKAAT,Acme Corp,Grant disbursement,"$270,000",Canada
+TXN5590,CCMI,XYZ Ltd,Goods purchase,"$36,155",Mauritius
+TXN5647,XYZ Ltd,Apple Inc,Grant disbursement,"$74,950",Russia
+TXN8550,SovCo Capital Partners,CCMI,Grant disbursement,"$43,896",USA
+TXN6475,PETROLEOS DE VENEZUELA S.A.,SovCo Capital Partners,Consulting fees,"$120,000",Japan
+TXN2956,ABC GmbH,Save the Children,Project funding,"$38,001",Canada
+TXN7655,Global Health Foundation,Apple Inc,Consulting fees,"$13,695",Somalia
+TXN9847,SovCo Capital Partners,CCMI,Payment for services,"$18,354",Somalia
+TXN4100,ABC GmbH,ROSNEFT,Consulting fees,"$390,000",Russia
+TXN4046,ABC GmbH,KIM JONG UN,Payment for services,"$130,000",North Korea
+TXN2334,AL-BARAKAAT,KIM JONG UN,Payment for services,"$2,980,000",North Korea
+TXN6698,CASA DE CUBA,Apple Inc,Payment for services,"$820,000",Germany
+TXN2309,CCMI,CCMI,Goods purchase,"$67,053",Russia
+TXN2117,CCMI,ABC GmbH,Goods purchase,"$22,781",Venezuela
+TXN2553,Microsoft,Save the Children,Grant disbursement,"$23,011",Somalia
+TXN3203,SovCo Capital Partners,Green Earth Org,Payment for services,"$4,601",UK
+TXN3588,AL-BARAKAAT,ISLAMIC REVOLUTIONARY GUARD CORPS,Payment for services,"$1,260,000",Iran
+TXN1601,Microsoft,Microsoft,Project funding,"$46,963",Somalia
+TXN8825,CCMI,KIM JONG UN,Payment for services,"$200,000",North Korea
+TXN2837,Save the Children,Green Earth Org,Consulting fees,"$47,730",Somalia
+TXN1621,"CIMEX, S.A.",XYZ Ltd,Payment for services,"$230,000",Japan
+TXN9557,ISLAMIC REVOLUTIONARY GUARD CORPS,ROSNEFT,Payment for services,"$1,480,000",Russia
+TXN4322,SovCo Capital Partners,XYZ Ltd,Project funding,"$97,808",Cuba
+TXN7482,Global Health Foundation,Microsoft,Grant disbursement,"$81,118",Venezuela
+TXN2497,Green Earth Org,Green Earth Org,Consulting fees,"$46,221",Somalia
+TXN1273,KIM JONG UN,CASA DE CUBA,Grant disbursement,"$4,400,000",Cuba
+TXN6793,Green Earth Org,Save the Children,Grant disbursement,"$18,493",Mauritius
+TXN6487,ABC GmbH,CASA DE CUBA,Goods purchase,"$290,000",Cuba
+TXN8047,BANCO NACIONAL DE CUBA,PETROLEOS DE VENEZUELA S.A.,Payment for services,"$4,530,000",Venezuela
+TXN7651,"CIMEX, S.A.",BANCO NACIONAL DE CUBA,Consulting fees,"$4,240,000",Cuba
+TXN9009,CCMI,AL-BARAKAAT,Goods purchase,"$410,000",Somalia
+TXN5843,CASA DE CUBA,SovCo Capital Partners,Consulting fees,"$580,000",Japan
+TXN3760,Global Health Foundation,Microsoft,Project funding,"$45,050",Cayman Islands
+TXN6134,CASA DE CUBA,ISLAMIC REVOLUTIONARY GUARD CORPS,Grant disbursement,"$3,820,000",Iran
+TXN3564,KIM JONG UN,SovCo Capital Partners,Payment for services,"$320,000",Japan
+TXN3188,Global Health Foundation,Green Earth Org,Project funding,"$59,644",North Korea
+TXN3574,CASA DE CUBA,"CIMEX, S.A.",Project funding,"$3,480,000",Cuba
+TXN5709,AEROCARIBBEAN AIRLINES,Green Earth Org,Grant disbursement,"$290,000",USA
+TXN2445,XYZ Ltd,Apple Inc,Goods purchase,"$12,602",USA
+TXN8386,AL-BARAKAAT,SovCo Capital Partners,Project funding,"$760,000",Japan
+TXN9347,Microsoft,Global Health Foundation,Goods purchase,"$40,733",Somalia
+TXN4987,CASA DE CUBA,Acme Corp,Payment for services,"$460,000",USA
+TXN9351,Microsoft,Acme Corp,Grant disbursement,"$9,868",Panama
+TXN7351,CASA DE CUBA,SovCo Capital Partners,Goods purchase,"$750,000",UK
+TXN5925,Acme Corp,Apple Inc,Goods purchase,"$36,191",Cayman Islands
+TXN9968,BANCO NACIONAL DE CUBA,SovCo Capital Partners,Payment for services,"$810,000",USA
+TXN7212,Apple Inc,Microsoft,Project funding,"$31,562",Mauritius
+TXN6174,CASA DE CUBA,Microsoft,Payment for services,"$520,000",Canada
+TXN3833,XYZ Ltd,CCMI,Goods purchase,"$34,018",Mauritius
+TXN5727,PETROLEOS DE VENEZUELA S.A.,ABC GmbH,Payment for services,"$980,000",Canada
+TXN3334,RUSSIAN NATIONAL COMMERCIAL BANK,CCMI,Goods purchase,"$840,000",Germany
+TXN7690,ROSNEFT,SovCo Capital Partners,Goods purchase,"$620,000",UK
+TXN5534,ROSNEFT,SovCo Capital Partners,Grant disbursement,"$320,000",UK
+TXN9609,Global Health Foundation,Global Health Foundation,Payment for services,"$8,291",Panama
+TXN5355,ROSNEFT,Green Earth Org,Grant disbursement,"$410,000",UK
+TXN5469,RUSSIAN NATIONAL COMMERCIAL BANK,ROSNEFT,Project funding,"$2,050,000",Russia
+TXN3603,CASA DE CUBA,Acme Corp,Payment for services,"$310,000",USA
+TXN1247,Save the Children,PETROLEOS DE VENEZUELA S.A.,Consulting fees,"$150,000",Venezuela
+TXN9352,"CIMEX, S.A.",KIM JONG UN,Consulting fees,"$2,240,000",North Korea
+TXN3558,SovCo Capital Partners,CCMI,Payment for services,"$46,876",Syria
+TXN5762,ROSNEFT,"CIMEX, S.A.",Goods purchase,"$3,060,000",Cuba
+TXN6942,CASA DE CUBA,AL-BARAKAAT,Project funding,"$3,240,000",Somalia
+TXN1772,Global Health Foundation,ABC GmbH,Payment for services,"$34,728",Panama
+TXN6228,Global Health Foundation,Microsoft,Grant disbursement,"$28,927",Mauritius
+TXN2595,AL-BARAKAAT,Acme Corp,Grant disbursement,"$660,000",Germany
+TXN1272,CASA DE CUBA,KIM JONG UN,Consulting fees,"$4,790,000",North Korea
+TXN1158,CCMI,Save the Children,Goods purchase,"$91,758",Russia
+TXN6039,BANCO NACIONAL DE CUBA,Save the Children,Grant disbursement,"$440,000",USA
+TXN5393,XYZ Ltd,Acme Corp,Payment for services,"$97,826",North Korea
+TXN7415,Save the Children,Apple Inc,Consulting fees,"$97,039",Russia
+TXN5423,AEROCARIBBEAN AIRLINES,Acme Corp,Grant disbursement,"$440,000",Japan
+TXN9053,CCMI,CASA DE CUBA,Project funding,"$130,000",Cuba
+TXN4767,Green Earth Org,SovCo Capital Partners,Grant disbursement,"$43,095",UK
+TXN2545,SovCo Capital Partners,XYZ Ltd,Payment for services,"$79,935",Iran
+TXN6975,SovCo Capital Partners,Microsoft,Consulting fees,"$31,679",Somalia
+TXN1091,CCMI,Acme Corp,Goods purchase,"$20,709",UK
+TXN5256,ROSNEFT,Apple Inc,Consulting fees,"$850,000",UK
+TXN8051,RUSSIAN NATIONAL COMMERCIAL BANK,Apple Inc,Goods purchase,"$900,000",UK
+TXN1577,CCMI,Save the Children,Consulting fees,"$82,934",Venezuela
+TXN2465,XYZ Ltd,CCMI,Goods purchase,"$44,297",Canada
+TXN1104,Acme Corp,Acme Corp,Grant disbursement,"$1,822",UK
+TXN9400,XYZ Ltd,CCMI,Project funding,"$42,618",Cuba
+TXN4836,Save the Children,Green Earth Org,Project funding,"$8,453",Cayman Islands
+TXN3220,CCMI,ABC GmbH,Grant disbursement,"$42,578",Cayman Islands
+TXN2439,ABC GmbH,Green Earth Org,Consulting fees,"$48,838",Cayman Islands
+TXN3055,Microsoft,ABC GmbH,Consulting fees,"$35,701",Somalia
+TXN1803,Apple Inc,CCMI,Project funding,"$15,834",Germany
+TXN9377,KIM JONG UN,CASA DE CUBA,Project funding,"$3,060,000",Cuba
+TXN6444,CASA DE CUBA,"CIMEX, S.A.",Payment for services,"$620,000",Cuba
+TXN5030,XYZ Ltd,ABC GmbH,Grant disbursement,"$25,620",Japan
+TXN5012,XYZ Ltd,Apple Inc,Project funding,"$19,891",Iran
+TXN7460,CCMI,Acme Corp,Consulting fees,"$16,581",Germany
+TXN9929,KIM JONG UN,BANCO NACIONAL DE CUBA,Project funding,"$2,780,000",Cuba
+TXN6336,AEROCARIBBEAN AIRLINES,PETROLEOS DE VENEZUELA S.A.,Payment for services,"$1,590,000",Venezuela
+TXN5526,ABC GmbH,Save the Children,Goods purchase,"$5,785",Germany
+TXN1432,ABC GmbH,Save the Children,Consulting fees,"$29,946",Japan
+TXN7514,XYZ Ltd,Global Health Foundation,Goods purchase,"$32,707",Cayman Islands
+TXN8559,Save the Children,Green Earth Org,Goods purchase,"$31,949",Somalia
+TXN9589,SovCo Capital Partners,Green Earth Org,Project funding,"$12,601",Syria
+TXN8704,Save the Children,XYZ Ltd,Payment for services,"$61,400",Russia
+TXN7140,Apple Inc,CASA DE CUBA,Payment for services,"$53,695",Cuba
+TXN3532,Acme Corp,BANCO NACIONAL DE CUBA,Payment for services,"$97,835",Cuba
+TXN9740,CASA DE CUBA,BANCO NACIONAL DE CUBA,Payment for services,"$4,990,000",Cuba
+TXN8205,ABC GmbH,SovCo Capital Partners,Grant disbursement,"$22,883",Mauritius
+TXN1737,PETROLEOS DE VENEZUELA S.A.,Acme Corp,Grant disbursement,"$970,000",UK
+TXN6078,CCMI,ISLAMIC REVOLUTIONARY GUARD CORPS,Payment for services,"$300,000",Iran
+TXN6288,CASA DE CUBA,AEROCARIBBEAN AIRLINES,Consulting fees,"$2,860,000",Cuba
+TXN4989,KIM JONG UN,KIM JONG UN,Grant disbursement,"$1,020,000",North Korea
+TXN5567,ROSNEFT,Microsoft,Goods purchase,"$460,000",Germany
+TXN9657,Microsoft,ABC GmbH,Consulting fees,"$39,809",Panama
+TXN2897,AEROCARIBBEAN AIRLINES,Global Health Foundation,Goods purchase,"$960,000",Japan
+TXN5227,ROSNEFT,KIM JONG UN,Project funding,"$2,850,000",North Korea
+TXN8846,CASA DE CUBA,ROSNEFT,Project funding,"$3,020,000",Russia
+TXN6304,Green Earth Org,ROSNEFT,Goods purchase,"$120,000",Russia
+TXN9152,"CIMEX, S.A.",CCMI,Payment for services,"$140,000",UK
+TXN7247,Green Earth Org,Global Health Foundation,Payment for services,"$14,468",Somalia
+TXN3170,Microsoft,SovCo Capital Partners,Consulting fees,"$45,725",Cuba
+TXN6253,AL-BARAKAAT,Green Earth Org,Goods purchase,"$670,000",Canada
+TXN4245,ABC GmbH,Apple Inc,Project funding,"$42,727",Somalia
+TXN8077,ROSNEFT,Acme Corp,Project funding,"$540,000",Germany
+TXN8425,Green Earth Org,BANCO NACIONAL DE CUBA,Project funding,"$170,000",Cuba
+TXN7295,Green Earth Org,CCMI,Goods purchase,"$27,615",Cayman Islands
+TXN9516,CCMI,Green Earth Org,Consulting fees,"$10,946",Germany
+TXN8553,XYZ Ltd,Acme Corp,Grant disbursement,"$79,468",North Korea
+TXN5663,Green Earth Org,ABC GmbH,Payment for services,"$38,410",UK
+TXN9679,RUSSIAN NATIONAL COMMERCIAL BANK,Save the Children,Grant disbursement,"$370,000",Germany
+TXN6623,XYZ Ltd,Microsoft,Project funding,"$42,414",Mauritius
+TXN5284,Acme Corp,CCMI,Project funding,"$70,997",Syria
+TXN6242,CASA DE CUBA,BANCO NACIONAL DE CUBA,Payment for services,"$2,930,000",Cuba
+TXN4567,ISLAMIC REVOLUTIONARY GUARD CORPS,Microsoft,Goods purchase,"$830,000",UK
+TXN9653,Acme Corp,SovCo Capital Partners,Payment for services,"$24,450",Mauritius
+TXN3276,RUSSIAN NATIONAL COMMERCIAL BANK,AL-BARAKAAT,Goods purchase,"$4,800,000",Somalia
+TXN8458,AEROCARIBBEAN AIRLINES,KIM JONG UN,Project funding,"$3,210,000",North Korea
+TXN2113,CASA DE CUBA,Microsoft,Payment for services,"$630,000",Germany
+TXN4700,Acme Corp,Save the Children,Grant disbursement,"$69,318",Cuba
+TXN2487,AL-BARAKAAT,Microsoft,Payment for services,"$990,000",UK
+TXN6037,SovCo Capital Partners,"CIMEX, S.A.",Goods purchase,"$86,315",Cuba
+TXN6877,Save the Children,XYZ Ltd,Consulting fees,"$39,711",Germany
+TXN6172,ABC GmbH,AEROCARIBBEAN AIRLINES,Grant disbursement,"$440,000",Cuba
+TXN1166,ABC GmbH,Microsoft,Consulting fees,"$46,108",Venezuela
+TXN7277,ABC GmbH,Green Earth Org,Payment for services,"$15,564",Cayman Islands
+TXN2700,SovCo Capital Partners,Global Health Foundation,Project funding,"$36,571",Russia
+TXN4535,SovCo Capital Partners,CCMI,Consulting fees,"$17,874",Venezuela
+TXN2694,ABC GmbH,CCMI,Payment for services,"$47,356",Canada
+TXN6283,Apple Inc,Global Health Foundation,Consulting fees,"$63,143",North Korea
+TXN2506,RUSSIAN NATIONAL COMMERCIAL BANK,RUSSIAN NATIONAL COMMERCIAL BANK,Grant disbursement,"$1,430,000",Russia
+TXN1988,ABC GmbH,Apple Inc,Consulting fees,"$24,125",Cayman Islands
+TXN3102,Acme Corp,Microsoft,Consulting fees,"$20,743",Canada
+TXN6261,ROSNEFT,AL-BARAKAAT,Grant disbursement,"$2,520,000",Somalia
+TXN7312,Global Health Foundation,Global Health Foundation,Payment for services,"$49,914",Canada
+TXN1002,AL-BARAKAAT,BANCO NACIONAL DE CUBA,Consulting fees,"$3,800,000",Cuba
+TXN8246,Global Health Foundation,Green Earth Org,Grant disbursement,"$43,738",Panama
+TXN9873,Apple Inc,KIM JONG UN,Goods purchase,"$250,000",North Korea
+TXN9086,ROSNEFT,CASA DE CUBA,Project funding,"$1,530,000",Cuba
+TXN9864,Save the Children,ABC GmbH,Goods purchase,"$57,628",Russia
+TXN6147,Acme Corp,BANCO NACIONAL DE CUBA,Grant disbursement,"$330,000",Cuba
+TXN2515,Microsoft,Acme Corp,Grant disbursement,"$46,143",Germany
+TXN3203,Save the Children,KIM JONG UN,Consulting fees,"$440,000",North Korea
+TXN2390,Global Health Foundation,Acme Corp,Project funding,"$22,580",USA
+TXN9207,CCMI,"CIMEX, S.A.",Consulting fees,"$100,000",Cuba
+TXN1105,Apple Inc,Save the Children,Payment for services,"$18,861",Iran
+TXN2345,PETROLEOS DE VENEZUELA S.A.,BANCO NACIONAL DE CUBA,Goods purchase,"$2,860,000",Cuba
+TXN6201,"CIMEX, S.A.",SovCo Capital Partners,Consulting fees,"$450,000",USA
+TXN5902,Green Earth Org,Save the Children,Grant disbursement,"$39,991",Panama
+TXN9202,ISLAMIC REVOLUTIONARY GUARD CORPS,ABC GmbH,Consulting fees,"$920,000",Japan
+TXN4104,ABC GmbH,KIM JONG UN,Consulting fees,"$72,804",North Korea
+TXN8844,Save the Children,ABC GmbH,Grant disbursement,"$18,207",Cayman Islands
+TXN6943,Global Health Foundation,BANCO NACIONAL DE CUBA,Consulting fees,"$220,000",Cuba
+TXN6007,CASA DE CUBA,Global Health Foundation,Consulting fees,"$890,000",UK
+TXN2606,Apple Inc,ROSNEFT,Grant disbursement,"$200,000",Russia
+TXN9240,CCMI,Save the Children,Grant disbursement,"$16,635",Cayman Islands
+TXN3994,SovCo Capital Partners,Acme Corp,Grant disbursement,"$26,257",UK
+TXN7654,"CIMEX, S.A.",BANCO NACIONAL DE CUBA,Grant disbursement,"$530,000",Cuba
+TXN3176,CCMI,Microsoft,Goods purchase,"$44,449",Syria
+TXN9187,ABC GmbH,Save the Children,Payment for services,"$99,647",Iran
+TXN6616,ABC GmbH,Green Earth Org,Goods purchase,"$27,315",USA
+TXN8225,ROSNEFT,ROSNEFT,Project funding,"$2,340,000",Russia
+TXN5004,CCMI,SovCo Capital Partners,Grant disbursement,"$29,553",UK
+TXN9794,Acme Corp,Green Earth Org,Project funding,"$24,094",Russia
+TXN5907,XYZ Ltd,ROSNEFT,Goods purchase,"$390,000",Russia
+TXN5370,SovCo Capital Partners,Save the Children,Goods purchase,"$31,686",North Korea
+TXN4026,Microsoft,BANCO NACIONAL DE CUBA,Payment for services,"$330,000",Cuba
+TXN3250,CCMI,CASA DE CUBA,Project funding,"$250,000",Cuba
+TXN1599,Acme Corp,Global Health Foundation,Goods purchase,"$9,543",UK
+TXN1385,Green Earth Org,XYZ Ltd,Grant disbursement,"$40,751",Cayman Islands
+TXN6035,ROSNEFT,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$4,230,000",Russia
+TXN2744,Green Earth Org,ISLAMIC REVOLUTIONARY GUARD CORPS,Consulting fees,"$290,000",Iran
+TXN2836,CASA DE CUBA,Save the Children,Consulting fees,"$760,000",USA
+TXN9769,SovCo Capital Partners,"CIMEX, S.A.",Consulting fees,"$410,000",Cuba
+TXN1881,ISLAMIC REVOLUTIONARY GUARD CORPS,ROSNEFT,Payment for services,"$3,950,000",Russia
+TXN5833,ABC GmbH,Save the Children,Grant disbursement,"$12,180",UK
+TXN2278,Acme Corp,ABC GmbH,Payment for services,"$33,343",Japan
+TXN5075,AEROCARIBBEAN AIRLINES,KIM JONG UN,Goods purchase,"$1,170,000",North Korea
+TXN8784,RUSSIAN NATIONAL COMMERCIAL BANK,RUSSIAN NATIONAL COMMERCIAL BANK,Consulting fees,"$3,090,000",Russia
+TXN3029,ABC GmbH,Microsoft,Goods purchase,"$25,702",Japan
+TXN4209,RUSSIAN NATIONAL COMMERCIAL BANK,CCMI,Goods purchase,"$430,000",USA
+TXN1213,Acme Corp,"CIMEX, S.A.",Goods purchase,"$63,411",Cuba
+TXN3882,SovCo Capital Partners,SovCo Capital Partners,Project funding,"$12,124",UK
+TXN6083,XYZ Ltd,Global Health Foundation,Payment for services,"$95,972",Venezuela
+TXN5517,ABC GmbH,"CIMEX, S.A.",Project funding,"$420,000",Cuba
+TXN7121,ROSNEFT,SovCo Capital Partners,Payment for services,"$210,000",USA
+TXN5352,AEROCARIBBEAN AIRLINES,PETROLEOS DE VENEZUELA S.A.,Payment for services,"$1,290,000",Venezuela
+TXN8138,Apple Inc,Microsoft,Payment for services,"$48,792",Germany
+TXN4286,ROSNEFT,ROSNEFT,Goods purchase,"$1,780,000",Russia
+TXN1252,Microsoft,RUSSIAN NATIONAL COMMERCIAL BANK,Project funding,"$190,000",Russia
+TXN4772,AEROCARIBBEAN AIRLINES,Apple Inc,Goods purchase,"$500,000",USA
+TXN9211,"CIMEX, S.A.",AEROCARIBBEAN AIRLINES,Goods purchase,"$2,930,000",Cuba
+TXN7276,Green Earth Org,ROSNEFT,Payment for services,"$380,000",Russia
+TXN9516,XYZ Ltd,XYZ Ltd,Project funding,"$31,981",Somalia
+TXN4973,ISLAMIC REVOLUTIONARY GUARD CORPS,Apple Inc,Payment for services,"$800,000",Japan
+TXN9788,Apple Inc,Green Earth Org,Grant disbursement,"$48,357",Cayman Islands
+TXN3127,Global Health Foundation,PETROLEOS DE VENEZUELA S.A.,Grant disbursement,"$170,000",Venezuela
+TXN5376,AL-BARAKAAT,"CIMEX, S.A.",Grant disbursement,"$1,100,000",Cuba
+TXN4155,RUSSIAN NATIONAL COMMERCIAL BANK,"CIMEX, S.A.",Project funding,"$1,850,000",Cuba
+TXN3054,RUSSIAN NATIONAL COMMERCIAL BANK,ABC GmbH,Consulting fees,"$670,000",Japan
+TXN4906,Microsoft,KIM JONG UN,Project funding,"$440,000",North Korea
+TXN4550,KIM JONG UN,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$880,000",Russia
+TXN4626,CCMI,ABC GmbH,Project funding,"$90,544",Russia
+TXN9059,Save the Children,Global Health Foundation,Grant disbursement,"$50,647",North Korea
+TXN1947,Apple Inc,ABC GmbH,Grant disbursement,"$35,210",Somalia
+TXN8321,Save the Children,ABC GmbH,Consulting fees,"$12,993",Mauritius
+TXN3125,PETROLEOS DE VENEZUELA S.A.,ROSNEFT,Consulting fees,"$1,350,000",Russia
+TXN3119,Save the Children,CCMI,Consulting fees,"$28,693",Cayman Islands
+TXN9347,BANCO NACIONAL DE CUBA,XYZ Ltd,Goods purchase,"$840,000",Japan
+TXN4728,Acme Corp,Microsoft,Consulting fees,"$36,270",Mauritius
+TXN9135,PETROLEOS DE VENEZUELA S.A.,RUSSIAN NATIONAL COMMERCIAL BANK,Project funding,"$3,730,000",Russia
+TXN6636,AEROCARIBBEAN AIRLINES,XYZ Ltd,Project funding,"$870,000",Germany
+TXN7472,Green Earth Org,Save the Children,Project funding,"$43,235",Mauritius
+TXN9838,Acme Corp,Green Earth Org,Payment for services,"$99,186",Russia
+TXN1260,CCMI,Acme Corp,Consulting fees,"$29,865",Germany
+TXN1242,AL-BARAKAAT,ISLAMIC REVOLUTIONARY GUARD CORPS,Project funding,"$2,460,000",Iran
+TXN8148,Apple Inc,CASA DE CUBA,Payment for services,"$430,000",Cuba
+TXN2645,"CIMEX, S.A.",ABC GmbH,Payment for services,"$270,000",USA
+TXN4337,Global Health Foundation,XYZ Ltd,Payment for services,"$24,411",UK
+TXN3693,Save the Children,ABC GmbH,Goods purchase,"$18,187",Venezuela
+TXN5090,"CIMEX, S.A.",SovCo Capital Partners,Goods purchase,"$370,000",Germany
+TXN4613,"CIMEX, S.A.",ROSNEFT,Goods purchase,"$4,960,000",Russia
+TXN2428,RUSSIAN NATIONAL COMMERCIAL BANK,CASA DE CUBA,Project funding,"$850,000",Cuba
+TXN6875,Green Earth Org,Acme Corp,Project funding,"$60,030",Syria
+TXN4710,Apple Inc,Apple Inc,Grant disbursement,"$36,875",Cayman Islands
+TXN4887,RUSSIAN NATIONAL COMMERCIAL BANK,ROSNEFT,Project funding,"$2,970,000",Russia
+TXN5282,ISLAMIC REVOLUTIONARY GUARD CORPS,AEROCARIBBEAN AIRLINES,Goods purchase,"$4,670,000",Cuba
+TXN3685,XYZ Ltd,CCMI,Project funding,"$23,060",North Korea
+TXN3417,SovCo Capital Partners,ABC GmbH,Payment for services,"$47,521",Cayman Islands
+TXN1888,Green Earth Org,SovCo Capital Partners,Payment for services,"$29,247",Germany
+TXN3873,Save the Children,XYZ Ltd,Grant disbursement,"$21,250",Somalia
+TXN6180,AL-BARAKAAT,Green Earth Org,Consulting fees,"$620,000",Canada
+TXN1356,XYZ Ltd,ABC GmbH,Grant disbursement,"$27,365",Somalia
+TXN2103,CASA DE CUBA,Apple Inc,Payment for services,"$790,000",Canada
+TXN3742,XYZ Ltd,XYZ Ltd,Goods purchase,"$45,151",Mauritius
+TXN4346,ABC GmbH,AEROCARIBBEAN AIRLINES,Consulting fees,"$380,000",Cuba
+TXN7783,CCMI,"CIMEX, S.A.",Project funding,"$420,000",Cuba
+TXN4047,Global Health Foundation,Green Earth Org,Payment for services,"$34,976",Germany
+TXN3356,Acme Corp,Green Earth Org,Grant disbursement,"$11,038",Japan
+TXN8759,CCMI,PETROLEOS DE VENEZUELA S.A.,Grant disbursement,"$98,251",Venezuela
+TXN1973,ROSNEFT,Green Earth Org,Grant disbursement,"$950,000",Germany
+TXN1175,Green Earth Org,Microsoft,Goods purchase,"$26,486",Cuba
+TXN1300,ABC GmbH,Acme Corp,Consulting fees,"$27,105",Cayman Islands
+TXN3697,ISLAMIC REVOLUTIONARY GUARD CORPS,Global Health Foundation,Payment for services,"$780,000",USA
+TXN5490,Acme Corp,Acme Corp,Payment for services,"$41,883",Venezuela
+TXN3429,Microsoft,CCMI,Consulting fees,"$13,991",Cayman Islands
+TXN4485,ABC GmbH,Apple Inc,Goods purchase,"$3,987",Germany
+TXN1610,Acme Corp,Microsoft,Payment for services,"$35,790",Canada
+TXN4826,Green Earth Org,CCMI,Project funding,"$12,008",Cayman Islands
+TXN4726,Microsoft,Green Earth Org,Payment for services,"$64,269",Cuba
+TXN2843,Acme Corp,BANCO NACIONAL DE CUBA,Grant disbursement,"$68,316",Cuba
+TXN8847,XYZ Ltd,Microsoft,Project funding,"$30,183",Somalia
+TXN2871,BANCO NACIONAL DE CUBA,Save the Children,Consulting fees,"$610,000",Canada
+TXN3032,AL-BARAKAAT,Apple Inc,Goods purchase,"$330,000",USA
+TXN9252,SovCo Capital Partners,Microsoft,Payment for services,"$11,329",Panama
+TXN5079,CASA DE CUBA,Global Health Foundation,Payment for services,"$990,000",Canada
+TXN8923,Save the Children,ROSNEFT,Consulting fees,"$170,000",Russia
+TXN5092,"CIMEX, S.A.",ABC GmbH,Payment for services,"$500,000",Germany
+TXN4126,ABC GmbH,BANCO NACIONAL DE CUBA,Grant disbursement,"$210,000",Cuba
+TXN3192,Apple Inc,SovCo Capital Partners,Goods purchase,"$38,901",Panama
+TXN2674,Save the Children,Microsoft,Payment for services,"$31,266",Cayman Islands
+TXN6292,BANCO NACIONAL DE CUBA,ROSNEFT,Grant disbursement,"$3,500,000",Russia
+TXN4940,ROSNEFT,BANCO NACIONAL DE CUBA,Payment for services,"$3,050,000",Cuba
+TXN1908,Green Earth Org,CASA DE CUBA,Grant disbursement,"$340,000",Cuba
+TXN4812,Microsoft,Green Earth Org,Goods purchase,"$34,975",Mauritius
+TXN4311,Microsoft,PETROLEOS DE VENEZUELA S.A.,Consulting fees,"$370,000",Venezuela
+TXN6443,RUSSIAN NATIONAL COMMERCIAL BANK,"CIMEX, S.A.",Consulting fees,"$1,280,000",Cuba
+TXN6018,AL-BARAKAAT,BANCO NACIONAL DE CUBA,Project funding,"$1,880,000",Cuba
+TXN8673,XYZ Ltd,Acme Corp,Goods purchase,"$36,308",Japan
+TXN8912,ROSNEFT,RUSSIAN NATIONAL COMMERCIAL BANK,Grant disbursement,"$3,550,000",Russia
+TXN3859,SovCo Capital Partners,Green Earth Org,Project funding,"$28,664",Syria
+TXN7214,SovCo Capital Partners,Acme Corp,Payment for services,"$26,066",Syria
+TXN6212,Microsoft,ISLAMIC REVOLUTIONARY GUARD CORPS,Payment for services,"$320,000",Iran
+TXN5045,Microsoft,RUSSIAN NATIONAL COMMERCIAL BANK,Grant disbursement,"$110,000",Russia
+TXN5635,Apple Inc,Microsoft,Grant disbursement,"$39,071",Panama
+TXN6565,Apple Inc,SovCo Capital Partners,Grant disbursement,"$45,526",Panama
+TXN1475,ABC GmbH,Apple Inc,Project funding,"$40,419",Germany
+TXN8264,Green Earth Org,Acme Corp,Goods purchase,"$11,379",Canada
+TXN5010,Save the Children,ISLAMIC REVOLUTIONARY GUARD CORPS,Goods purchase,"$490,000",Iran
+TXN5399,Global Health Foundation,Apple Inc,Grant disbursement,"$30,579",Syria
+TXN7110,ABC GmbH,CASA DE CUBA,Project funding,"$200,000",Cuba
+TXN5366,SovCo Capital Partners,SovCo Capital Partners,Payment for services,"$22,619",Mauritius
+TXN6539,Save the Children,CCMI,Project funding,"$5,825",Cayman Islands
+TXN3023,CCMI,SovCo Capital Partners,Project funding,"$23,392",Panama
+TXN2567,SovCo Capital Partners,SovCo Capital Partners,Grant disbursement,"$25,375",Canada
+TXN3631,Acme Corp,Apple Inc,Consulting fees,"$57,623",Cuba
+TXN6521,Green Earth Org,Green Earth Org,Consulting fees,"$50,796",North Korea
+TXN6268,CCMI,Acme Corp,Goods purchase,"$48,513",UK
+TXN4406,Global Health Foundation,Save the Children,Project funding,"$1,508",Japan
+TXN6223,CCMI,Acme Corp,Payment for services,"$22,151",Syria
+TXN1424,Apple Inc,SovCo Capital Partners,Grant disbursement,"$31,211",Cuba
+TXN9667,Apple Inc,Green Earth Org,Project funding,"$17,863",Russia
+TXN9236,Save the Children,Microsoft,Payment for services,"$28,951",Cuba
+TXN4189,SovCo Capital Partners,AEROCARIBBEAN AIRLINES,Consulting fees,"$480,000",Cuba
+TXN7632,Save the Children,RUSSIAN NATIONAL COMMERCIAL BANK,Project funding,"$260,000",Russia
+TXN9992,SovCo Capital Partners,Apple Inc,Project funding,"$55,848",Syria
+TXN6256,XYZ Ltd,Microsoft,Grant disbursement,"$24,929",Panama
+TXN4522,Acme Corp,AEROCARIBBEAN AIRLINES,Payment for services,"$270,000",Cuba
+TXN3584,XYZ Ltd,Acme Corp,Payment for services,"$42,441",Canada
+TXN6070,CCMI,XYZ Ltd,Goods purchase,"$32,673",North Korea
+TXN5405,Global Health Foundation,Global Health Foundation,Grant disbursement,"$26,265",Canada
+TXN8951,Acme Corp,Save the Children,Grant disbursement,"$39,140",Germany
+TXN8928,Apple Inc,XYZ Ltd,Payment for services,"$2,708",UK
+TXN8216,Microsoft,Global Health Foundation,Payment for services,"$1,396",Canada
+TXN7440,Microsoft,AL-BARAKAAT,Grant disbursement,"$58,219",Somalia
+TXN2519,SovCo Capital Partners,Apple Inc,Consulting fees,"$10,801",UK
+TXN5766,"CIMEX, S.A.",Apple Inc,Grant disbursement,"$940,000",Canada
+TXN8166,Apple Inc,Acme Corp,Consulting fees,"$20,036",Canada
+TXN7813,Apple Inc,Microsoft,Project funding,"$22,158",Mauritius
+TXN3098,Acme Corp,Acme Corp,Payment for services,"$47,293",Cuba
+TXN2278,CCMI,PETROLEOS DE VENEZUELA S.A.,Project funding,"$140,000",Venezuela
+TXN6984,BANCO NACIONAL DE CUBA,ISLAMIC REVOLUTIONARY GUARD CORPS,Consulting fees,"$3,080,000",Iran
+TXN1439,Apple Inc,"CIMEX, S.A.",Grant disbursement,"$410,000",Cuba
+TXN1747,Acme Corp,PETROLEOS DE VENEZUELA S.A.,Payment for services,"$63,269",Venezuela
+TXN5392,Global Health Foundation,Acme Corp,Payment for services,"$29,670",Panama
+TXN1088,Apple Inc,Microsoft,Project funding,"$63,616",Venezuela
+TXN8618,Global Health Foundation,BANCO NACIONAL DE CUBA,Consulting fees,"$190,000",Cuba
+TXN1161,KIM JONG UN,PETROLEOS DE VENEZUELA S.A.,Project funding,"$4,910,000",Venezuela
+TXN3300,KIM JONG UN,SovCo Capital Partners,Project funding,"$750,000",Japan
+TXN7937,BANCO NACIONAL DE CUBA,RUSSIAN NATIONAL COMMERCIAL BANK,Grant disbursement,"$4,000,000",Russia
+TXN4073,SovCo Capital Partners,Global Health Foundation,Project funding,"$32,446",Germany
+TXN6640,Green Earth Org,Save the Children,Grant disbursement,"$15,007",Syria
+TXN4847,Global Health Foundation,CCMI,Grant disbursement,"$10,956",Russia
+TXN6339,Save the Children,Apple Inc,Consulting fees,"$8,385",Germany
+TXN9674,AEROCARIBBEAN AIRLINES,Global Health Foundation,Project funding,"$990,000",USA
+TXN1363,CCMI,ABC GmbH,Payment for services,"$20,938",Canada
+TXN8004,ISLAMIC REVOLUTIONARY GUARD CORPS,AEROCARIBBEAN AIRLINES,Grant disbursement,"$4,370,000",Cuba
+TXN5992,XYZ Ltd,CCMI,Grant disbursement,"$38,880",UK
+TXN8635,Apple Inc,Green Earth Org,Project funding,"$31,994",USA
+TXN1279,CCMI,Save the Children,Project funding,"$5,433",USA
+TXN6744,Acme Corp,RUSSIAN NATIONAL COMMERCIAL BANK,Consulting fees,"$460,000",Russia
+TXN4224,SovCo Capital Partners,Acme Corp,Project funding,"$23,303",North Korea
+TXN3721,"CIMEX, S.A.",Apple Inc,Consulting fees,"$840,000",Canada
+TXN6944,CCMI,CCMI,Grant disbursement,"$7,900",Panama
+TXN5185,Microsoft,Green Earth Org,Goods purchase,"$7,258",Panama
+TXN9496,"CIMEX, S.A.",AL-BARAKAAT,Payment for services,"$1,650,000",Somalia
+TXN9955,XYZ Ltd,Acme Corp,Goods purchase,"$49,773",Somalia
+TXN2856,PETROLEOS DE VENEZUELA S.A.,Acme Corp,Grant disbursement,"$300,000",Germany
+TXN7847,AL-BARAKAAT,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$1,670,000",Russia
+TXN4196,CCMI,AEROCARIBBEAN AIRLINES,Consulting fees,"$420,000",Cuba
+TXN1720,PETROLEOS DE VENEZUELA S.A.,BANCO NACIONAL DE CUBA,Project funding,"$3,550,000",Cuba
+TXN6388,"CIMEX, S.A.",CCMI,Goods purchase,"$410,000",USA
+TXN1352,AEROCARIBBEAN AIRLINES,RUSSIAN NATIONAL COMMERCIAL BANK,Project funding,"$2,790,000",Russia
+TXN4491,ISLAMIC REVOLUTIONARY GUARD CORPS,ISLAMIC REVOLUTIONARY GUARD CORPS,Consulting fees,"$1,750,000",Iran
+TXN5612,Global Health Foundation,Green Earth Org,Consulting fees,"$16,931",Germany
+TXN3803,Global Health Foundation,Green Earth Org,Goods purchase,"$47,566",Cayman Islands
+TXN8971,Save the Children,Acme Corp,Consulting fees,"$8,268",USA
+TXN1163,KIM JONG UN,CCMI,Payment for services,"$980,000",Germany
+TXN2156,Green Earth Org,CCMI,Grant disbursement,"$35,570",UK
+TXN7131,Green Earth Org,Global Health Foundation,Payment for services,"$48,280",Cayman Islands
+TXN4276,CCMI,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$450,000",Russia
+TXN2581,AEROCARIBBEAN AIRLINES,AEROCARIBBEAN AIRLINES,Project funding,"$3,390,000",Cuba
+TXN7971,RUSSIAN NATIONAL COMMERCIAL BANK,"CIMEX, S.A.",Goods purchase,"$600,000",Cuba
+TXN7777,AEROCARIBBEAN AIRLINES,KIM JONG UN,Project funding,"$1,270,000",North Korea
+TXN4414,CCMI,Global Health Foundation,Project funding,"$39,580",Mauritius
+TXN2828,Acme Corp,Global Health Foundation,Goods purchase,"$54,444",Iran
+TXN2317,Green Earth Org,Apple Inc,Project funding,"$26,369",Iran
+TXN2987,KIM JONG UN,Microsoft,Project funding,"$560,000",USA
+TXN8414,Global Health Foundation,Acme Corp,Payment for services,"$39,534",Somalia
+TXN5016,Microsoft,RUSSIAN NATIONAL COMMERCIAL BANK,Grant disbursement,"$430,000",Russia
+TXN8528,Apple Inc,ABC GmbH,Grant disbursement,"$11,265",Cayman Islands
+TXN4428,XYZ Ltd,ISLAMIC REVOLUTIONARY GUARD CORPS,Grant disbursement,"$110,000",Iran
+TXN6620,Green Earth Org,Global Health Foundation,Grant disbursement,"$37,421",UK
+TXN5586,ABC GmbH,Apple Inc,Payment for services,"$44,977",Russia
+TXN7489,XYZ Ltd,Acme Corp,Project funding,"$38,432",Cayman Islands
+TXN2433,CCMI,Apple Inc,Consulting fees,"$44,065",Cayman Islands
+TXN5125,Apple Inc,CCMI,Goods purchase,"$5,644",Panama
+TXN1644,Green Earth Org,Green Earth Org,Project funding,"$18,098",Mauritius
+TXN9155,"CIMEX, S.A.",SovCo Capital Partners,Grant disbursement,"$280,000",Canada
+TXN9750,Acme Corp,CCMI,Grant disbursement,"$7,394",Japan
+TXN2592,Apple Inc,Microsoft,Goods purchase,"$40,602",Japan
+TXN4350,Global Health Foundation,BANCO NACIONAL DE CUBA,Consulting fees,"$400,000",Cuba
+TXN5755,Global Health Foundation,Save the Children,Goods purchase,"$26,437",Cuba
+TXN1006,Green Earth Org,ABC GmbH,Consulting fees,"$5,389",Japan
+TXN5969,Microsoft,Microsoft,Goods purchase,"$90,057",North Korea
+TXN8383,KIM JONG UN,PETROLEOS DE VENEZUELA S.A.,Goods purchase,"$2,600,000",Venezuela
+TXN7763,CASA DE CUBA,BANCO NACIONAL DE CUBA,Payment for services,"$1,930,000",Cuba
+TXN9908,SovCo Capital Partners,XYZ Ltd,Goods purchase,"$35,426",Cayman Islands
+TXN6951,BANCO NACIONAL DE CUBA,Apple Inc,Consulting fees,"$860,000",Germany
+TXN8089,Microsoft,Save the Children,Project funding,"$15,170",Panama
+TXN9875,ABC GmbH,SovCo Capital Partners,Goods purchase,"$39,238",Syria
+TXN3691,XYZ Ltd,Microsoft,Consulting fees,"$30,877",Japan
+TXN7824,BANCO NACIONAL DE CUBA,PETROLEOS DE VENEZUELA S.A.,Goods purchase,"$3,490,000",Venezuela
+TXN4090,CCMI,ROSNEFT,Grant disbursement,"$82,165",Russia
+TXN4361,ABC GmbH,XYZ Ltd,Payment for services,"$12,481",Cayman Islands
+TXN7495,ISLAMIC REVOLUTIONARY GUARD CORPS,ROSNEFT,Project funding,"$3,790,000",Russia
+TXN6922,Microsoft,Green Earth Org,Goods purchase,"$44,350",UK
+TXN8240,ABC GmbH,Save the Children,Grant disbursement,"$32,714",Germany
+TXN6703,Global Health Foundation,ABC GmbH,Project funding,"$5,345",UK
+TXN4784,Microsoft,XYZ Ltd,Goods purchase,"$99,307",North Korea
+TXN9143,XYZ Ltd,CCMI,Goods purchase,"$30,206",Somalia
+TXN4650,CCMI,CCMI,Consulting fees,"$26,828",USA
+TXN4709,CCMI,CCMI,Project funding,"$29,486",Mauritius
+TXN3098,AL-BARAKAAT,KIM JONG UN,Grant disbursement,"$560,000",North Korea
+TXN7054,Microsoft,XYZ Ltd,Payment for services,"$13,088",Russia
+TXN3749,"CIMEX, S.A.",Green Earth Org,Goods purchase,"$550,000",Japan
+TXN6353,KIM JONG UN,Apple Inc,Grant disbursement,"$580,000",Canada
+TXN2918,Apple Inc,CCMI,Grant disbursement,"$5,179",UK
+TXN2247,Apple Inc,Save the Children,Goods purchase,"$50,804",Iran
+TXN1911,ISLAMIC REVOLUTIONARY GUARD CORPS,PETROLEOS DE VENEZUELA S.A.,Goods purchase,"$2,400,000",Venezuela
+TXN3309,PETROLEOS DE VENEZUELA S.A.,KIM JONG UN,Payment for services,"$2,860,000",North Korea
+TXN2354,Apple Inc,Microsoft,Project funding,"$6,494",USA
+TXN3458,Microsoft,Apple Inc,Grant disbursement,"$30,250",Iran
+TXN6590,AEROCARIBBEAN AIRLINES,Global Health Foundation,Grant disbursement,"$260,000",Japan
+TXN4722,ROSNEFT,ROSNEFT,Consulting fees,"$4,480,000",Russia
+TXN7595,RUSSIAN NATIONAL COMMERCIAL BANK,AL-BARAKAAT,Project funding,"$3,400,000",Somalia
+TXN1250,CCMI,Microsoft,Consulting fees,"$34,087",Somalia
+TXN9898,AEROCARIBBEAN AIRLINES,Save the Children,Grant disbursement,"$620,000",UK
+TXN7135,XYZ Ltd,Apple Inc,Consulting fees,"$84,543",Iran
+TXN4425,Apple Inc,Acme Corp,Project funding,"$31,866",UK
+TXN5410,Microsoft,Green Earth Org,Payment for services,"$12,047",Iran
+TXN2902,XYZ Ltd,Save the Children,Goods purchase,"$8,823",Germany
+TXN4881,Apple Inc,ISLAMIC REVOLUTIONARY GUARD CORPS,Project funding,"$460,000",Iran
+TXN8853,RUSSIAN NATIONAL COMMERCIAL BANK,RUSSIAN NATIONAL COMMERCIAL BANK,Project funding,"$1,880,000",Russia
+TXN2951,ABC GmbH,"CIMEX, S.A.",Grant disbursement,"$250,000",Cuba
+TXN9922,Global Health Foundation,Global Health Foundation,Project funding,"$40,353",Germany
+TXN7584,Save the Children,Apple Inc,Project funding,"$57,651",Iran
+TXN7160,ABC GmbH,BANCO NACIONAL DE CUBA,Goods purchase,"$370,000",Cuba
+TXN8663,ISLAMIC REVOLUTIONARY GUARD CORPS,Green Earth Org,Goods purchase,"$580,000",Germany
+TXN9294,"CIMEX, S.A.",Microsoft,Goods purchase,"$860,000",UK
+TXN1835,Save the Children,Acme Corp,Grant disbursement,"$41,346",Somalia
+TXN4300,ABC GmbH,Microsoft,Payment for services,"$17,026",Japan
+TXN5013,RUSSIAN NATIONAL COMMERCIAL BANK,AL-BARAKAAT,Goods purchase,"$3,300,000",Somalia
+TXN7831,Acme Corp,Microsoft,Goods purchase,"$11,366",Mauritius
+TXN7757,Acme Corp,SovCo Capital Partners,Project funding,"$76,058",Cuba
+TXN7037,Apple Inc,Save the Children,Grant disbursement,"$33,820",Cayman Islands
+TXN9909,Microsoft,SovCo Capital Partners,Consulting fees,"$46,170",Mauritius
+TXN2423,SovCo Capital Partners,AL-BARAKAAT,Payment for services,"$83,848",Somalia
+TXN8956,SovCo Capital Partners,ABC GmbH,Consulting fees,"$44,672",UK
+TXN4437,Save the Children,ROSNEFT,Goods purchase,"$160,000",Russia
+TXN3560,Microsoft,Apple Inc,Project funding,"$67,325",Venezuela
+TXN5260,Green Earth Org,Acme Corp,Goods purchase,"$30,584",Mauritius
+TXN8217,Global Health Foundation,Global Health Foundation,Payment for services,"$92,291",Russia
+TXN1832,CASA DE CUBA,AL-BARAKAAT,Project funding,"$4,150,000",Somalia
+TXN8971,Microsoft,Microsoft,Consulting fees,"$9,224",Germany
+TXN9642,Microsoft,Microsoft,Goods purchase,"$30,792",Somalia
+TXN1163,Apple Inc,ABC GmbH,Payment for services,"$12,104",Japan
+TXN6272,ABC GmbH,CASA DE CUBA,Project funding,"$280,000",Cuba
+TXN4411,CCMI,CASA DE CUBA,Project funding,"$390,000",Cuba
+TXN3016,Global Health Foundation,ABC GmbH,Goods purchase,"$44,236",UK
+TXN2835,Green Earth Org,Apple Inc,Consulting fees,"$17,750",Venezuela
+TXN5164,Microsoft,ROSNEFT,Payment for services,"$300,000",Russia
+TXN2433,SovCo Capital Partners,ISLAMIC REVOLUTIONARY GUARD CORPS,Consulting fees,"$88,064",Iran
+TXN5047,Save the Children,RUSSIAN NATIONAL COMMERCIAL BANK,Goods purchase,"$480,000",Russia
+TXN3396,CCMI,Global Health Foundation,Goods purchase,"$82,915",Russia
+TXN9661,Save the Children,XYZ Ltd,Payment for services,"$5,307",Canada
+TXN8995,Save the Children,Save the Children,Payment for services,"$48,681",Somalia
+TXN2244,CASA DE CUBA,ABC GmbH,Project funding,"$430,000",UK
+TXN9171,AEROCARIBBEAN AIRLINES,ABC GmbH,Project funding,"$380,000",Canada
+TXN3941,RUSSIAN NATIONAL COMMERCIAL BANK,XYZ Ltd,Payment for services,"$340,000",Germany
+TXN4125,PETROLEOS DE VENEZUELA S.A.,Save the Children,Project funding,"$640,000",Canada
+TXN3128,Apple Inc,CCMI,Grant disbursement,"$95,325",Syria
+TXN3269,PETROLEOS DE VENEZUELA S.A.,KIM JONG UN,Payment for services,"$680,000",North Korea
+TXN3703,Global Health Foundation,XYZ Ltd,Goods purchase,"$45,594",Mauritius
+TXN7481,Acme Corp,Green Earth Org,Project funding,"$8,669",Panama
+TXN4714,ABC GmbH,XYZ Ltd,Payment for services,"$2,456",Germany
+TXN2411,Save the Children,PETROLEOS DE VENEZUELA S.A.,Project funding,"$270,000",Venezuela
+TXN9659,CCMI,Green Earth Org,Consulting fees,"$40,306",Cayman Islands
+TXN1061,XYZ Ltd,Acme Corp,Goods purchase,"$22,301",Japan
+TXN1263,ISLAMIC REVOLUTIONARY GUARD CORPS,Microsoft,Consulting fees,"$470,000",UK
+TXN4286,"CIMEX, S.A.",KIM JONG UN,Consulting fees,"$4,540,000",North Korea
+TXN8293,RUSSIAN NATIONAL COMMERCIAL BANK,Global Health Foundation,Goods purchase,"$980,000",Canada
+TXN5818,Green Earth Org,Global Health Foundation,Goods purchase,"$11,115",Panama
+TXN2536,CASA DE CUBA,XYZ Ltd,Project funding,"$410,000",UK
+TXN6282,"CIMEX, S.A.",ROSNEFT,Payment for services,"$1,360,000",Russia
+TXN1558,XYZ Ltd,Apple Inc,Consulting fees,"$43,707",Russia
+TXN9066,CASA DE CUBA,BANCO NACIONAL DE CUBA,Grant disbursement,"$2,840,000",Cuba
+TXN4539,ABC GmbH,ROSNEFT,Goods purchase,"$450,000",Russia
+TXN1176,ABC GmbH,Green Earth Org,Consulting fees,"$41,408",Panama
+TXN1687,Acme Corp,CCMI,Payment for services,"$52,090",Cuba
+TXN4382,Microsoft,Global Health Foundation,Grant disbursement,"$37,251",Syria
+TXN3793,Green Earth Org,CASA DE CUBA,Consulting fees,"$250,000",Cuba
+TXN7136,Global Health Foundation,Microsoft,Payment for services,"$91,748",Venezuela
+TXN8608,CASA DE CUBA,PETROLEOS DE VENEZUELA S.A.,Goods purchase,"$4,480,000",Venezuela
+TXN1519,BANCO NACIONAL DE CUBA,SovCo Capital Partners,Consulting fees,"$280,000",Canada
+TXN8853,Apple Inc,Apple Inc,Goods purchase,"$98,527",Syria
+TXN3143,Save the Children,ABC GmbH,Goods purchase,"$38,269",Panama
+TXN9497,Global Health Foundation,SovCo Capital Partners,Consulting fees,"$24,417",UK
+TXN3801,XYZ Ltd,Acme Corp,Grant disbursement,"$86,741",Cuba
+TXN6155,BANCO NACIONAL DE CUBA,PETROLEOS DE VENEZUELA S.A.,Goods purchase,"$580,000",Venezuela
+TXN4461,Apple Inc,RUSSIAN NATIONAL COMMERCIAL BANK,Consulting fees,"$320,000",Russia
+TXN8639,CASA DE CUBA,Acme Corp,Project funding,"$900,000",Germany
+TXN3878,Acme Corp,Acme Corp,Goods purchase,"$45,253",USA
+TXN2797,RUSSIAN NATIONAL COMMERCIAL BANK,ABC GmbH,Consulting fees,"$480,000",USA
+TXN8948,AL-BARAKAAT,ROSNEFT,Project funding,"$720,000",Russia
+TXN4752,XYZ Ltd,Microsoft,Payment for services,"$27,069",Somalia
+TXN8804,CCMI,CCMI,Grant disbursement,"$47,945",Mauritius
+TXN7809,PETROLEOS DE VENEZUELA S.A.,SovCo Capital Partners,Consulting fees,"$620,000",Canada
+TXN9386,XYZ Ltd,Microsoft,Project funding,"$26,107",UK
+TXN3789,Global Health Foundation,Microsoft,Grant disbursement,"$18,432",Cuba
+TXN7927,Apple Inc,Green Earth Org,Project funding,"$76,976",Iran
+TXN8485,ROSNEFT,ISLAMIC REVOLUTIONARY GUARD CORPS,Consulting fees,"$1,500,000",Iran
+TXN1482,Save the Children,Green Earth Org,Grant disbursement,"$36,832",Germany
+TXN2235,Green Earth Org,BANCO NACIONAL DE CUBA,Grant disbursement,"$180,000",Cuba
+TXN5268,RUSSIAN NATIONAL COMMERCIAL BANK,AEROCARIBBEAN AIRLINES,Payment for services,"$2,760,000",Cuba
+TXN6091,KIM JONG UN,CASA DE CUBA,Grant disbursement,"$3,250,000",Cuba
+TXN9576,PETROLEOS DE VENEZUELA S.A.,"CIMEX, S.A.",Consulting fees,"$4,180,000",Cuba
+TXN3365,Green Earth Org,Acme Corp,Payment for services,"$8,310",Panama
+TXN5552,CASA DE CUBA,Save the Children,Project funding,"$350,000",Canada
+TXN9718,KIM JONG UN,ROSNEFT,Project funding,"$3,390,000",Russia
+TXN8720,Save the Children,CCMI,Grant disbursement,"$28,957",Cayman Islands
+TXN7103,CCMI,CCMI,Consulting fees,"$24,531",USA
+TXN5180,AEROCARIBBEAN AIRLINES,RUSSIAN NATIONAL COMMERCIAL BANK,Goods purchase,"$1,850,000",Russia
+TXN9742,CASA DE CUBA,AL-BARAKAAT,Goods purchase,"$980,000",Somalia
+TXN3563,Apple Inc,Apple Inc,Goods purchase,"$34,201",Cayman Islands
+TXN4314,RUSSIAN NATIONAL COMMERCIAL BANK,ABC GmbH,Consulting fees,"$600,000",Germany
+TXN2412,CCMI,Apple Inc,Grant disbursement,"$40,907",Mauritius
+TXN1269,ROSNEFT,XYZ Ltd,Payment for services,"$720,000",USA
+TXN1522,Apple Inc,Acme Corp,Grant disbursement,"$39,604",Mauritius
+TXN9839,ABC GmbH,Global Health Foundation,Goods purchase,"$35,887",Germany
+TXN3103,SovCo Capital Partners,Green Earth Org,Grant disbursement,"$45,877",North Korea
+TXN7692,ISLAMIC REVOLUTIONARY GUARD CORPS,Apple Inc,Consulting fees,"$970,000",USA
+TXN1871,Global Health Foundation,Save the Children,Project funding,"$35,341",Iran
+TXN5152,ROSNEFT,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$2,060,000",Russia
+TXN7530,Apple Inc,Apple Inc,Consulting fees,"$18,356",Panama
+TXN8611,XYZ Ltd,SovCo Capital Partners,Consulting fees,"$78,608",Cuba
+TXN7366,RUSSIAN NATIONAL COMMERCIAL BANK,"CIMEX, S.A.",Consulting fees,"$2,170,000",Cuba
+TXN6280,SovCo Capital Partners,CCMI,Goods purchase,"$36,778",Germany
+TXN9793,Save the Children,"CIMEX, S.A.",Grant disbursement,"$210,000",Cuba
+TXN5733,Microsoft,Save the Children,Consulting fees,"$12,879",Cayman Islands
+TXN9160,BANCO NACIONAL DE CUBA,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$2,890,000",Russia
+TXN9853,SovCo Capital Partners,"CIMEX, S.A.",Payment for services,"$360,000",Cuba
+TXN4710,SovCo Capital Partners,Acme Corp,Project funding,"$4,026",UK
+TXN6360,CASA DE CUBA,ISLAMIC REVOLUTIONARY GUARD CORPS,Goods purchase,"$3,490,000",Iran
+TXN7655,Acme Corp,CCMI,Grant disbursement,"$16,095",Cayman Islands
+TXN5895,Save the Children,KIM JONG UN,Payment for services,"$250,000",North Korea
+TXN1605,ISLAMIC REVOLUTIONARY GUARD CORPS,XYZ Ltd,Project funding,"$770,000",UK
+TXN2152,SovCo Capital Partners,Global Health Foundation,Payment for services,"$18,505",UK
+TXN4645,Microsoft,RUSSIAN NATIONAL COMMERCIAL BANK,Goods purchase,"$240,000",Russia
+TXN9170,Microsoft,CCMI,Goods purchase,"$34,451",Japan
+TXN9195,ABC GmbH,Global Health Foundation,Project funding,"$26,234",UK
+TXN3542,CCMI,CCMI,Grant disbursement,"$9,410",Canada
+TXN2004,Microsoft,Green Earth Org,Payment for services,"$36,787",Panama
+TXN1316,Microsoft,Microsoft,Project funding,"$26,928",Canada
+TXN2264,AL-BARAKAAT,Global Health Foundation,Goods purchase,"$400,000",USA
+TXN7863,PETROLEOS DE VENEZUELA S.A.,RUSSIAN NATIONAL COMMERCIAL BANK,Consulting fees,"$3,660,000",Russia
+TXN7258,Acme Corp,Acme Corp,Grant disbursement,"$12,576",Somalia
+TXN7760,BANCO NACIONAL DE CUBA,ABC GmbH,Goods purchase,"$150,000",Canada
+TXN7575,XYZ Ltd,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$280,000",Russia
+TXN4247,Green Earth Org,BANCO NACIONAL DE CUBA,Payment for services,"$190,000",Cuba
+TXN1030,Apple Inc,KIM JONG UN,Goods purchase,"$480,000",North Korea
+TXN7485,ABC GmbH,Green Earth Org,Project funding,"$42,603",USA
+TXN3760,ABC GmbH,Global Health Foundation,Consulting fees,"$66,075",Syria
+TXN3421,CCMI,Global Health Foundation,Grant disbursement,"$19,818",Panama
+TXN9382,Microsoft,Green Earth Org,Grant disbursement,"$57,535",Russia
+TXN4258,ROSNEFT,"CIMEX, S.A.",Payment for services,"$2,650,000",Cuba
+TXN7235,BANCO NACIONAL DE CUBA,RUSSIAN NATIONAL COMMERCIAL BANK,Project funding,"$3,650,000",Russia
+TXN8428,ISLAMIC REVOLUTIONARY GUARD CORPS,BANCO NACIONAL DE CUBA,Grant disbursement,"$1,220,000",Cuba
+TXN9857,XYZ Ltd,Acme Corp,Grant disbursement,"$32,353",Venezuela
+TXN4847,Acme Corp,XYZ Ltd,Project funding,"$5,055",Canada
+TXN6841,PETROLEOS DE VENEZUELA S.A.,Green Earth Org,Consulting fees,"$770,000",UK
+TXN8123,RUSSIAN NATIONAL COMMERCIAL BANK,ABC GmbH,Consulting fees,"$760,000",USA
+TXN2141,ROSNEFT,ABC GmbH,Grant disbursement,"$930,000",Canada
+TXN7922,Apple Inc,Acme Corp,Consulting fees,"$2,412",Japan
+TXN9177,Microsoft,AEROCARIBBEAN AIRLINES,Project funding,"$240,000",Cuba
+TXN4472,CCMI,BANCO NACIONAL DE CUBA,Consulting fees,"$310,000",Cuba
+TXN3888,Global Health Foundation,"CIMEX, S.A.",Grant disbursement,"$270,000",Cuba
+TXN3091,"CIMEX, S.A.",Microsoft,Goods purchase,"$350,000",Japan
+TXN6285,BANCO NACIONAL DE CUBA,Acme Corp,Grant disbursement,"$860,000",Japan
+TXN7318,Save the Children,Acme Corp,Payment for services,"$10,665",Cayman Islands
+TXN9466,CCMI,Global Health Foundation,Goods purchase,"$46,284",Venezuela
+TXN8354,"CIMEX, S.A.",KIM JONG UN,Goods purchase,"$3,020,000",North Korea
+TXN3561,BANCO NACIONAL DE CUBA,Microsoft,Consulting fees,"$560,000",Japan
+TXN7578,AL-BARAKAAT,CCMI,Goods purchase,"$390,000",UK
+TXN6001,Save the Children,XYZ Ltd,Grant disbursement,"$32,415",UK
+TXN6158,AL-BARAKAAT,"CIMEX, S.A.",Payment for services,"$560,000",Cuba
+TXN3488,Microsoft,SovCo Capital Partners,Consulting fees,"$96,153",North Korea
+TXN6513,Save the Children,AEROCARIBBEAN AIRLINES,Project funding,"$440,000",Cuba
+TXN8663,CASA DE CUBA,BANCO NACIONAL DE CUBA,Consulting fees,"$4,510,000",Cuba
+TXN4173,AL-BARAKAAT,CCMI,Project funding,"$840,000",UK
+TXN5261,BANCO NACIONAL DE CUBA,SovCo Capital Partners,Goods purchase,"$570,000",UK
+TXN7634,Green Earth Org,Apple Inc,Consulting fees,"$39,476",Cuba
+TXN4150,Green Earth Org,Microsoft,Goods purchase,"$26,442",Venezuela
+TXN7312,Green Earth Org,"CIMEX, S.A.",Project funding,"$420,000",Cuba
+TXN8261,SovCo Capital Partners,Save the Children,Payment for services,"$33,119",Canada
+TXN7919,ABC GmbH,AEROCARIBBEAN AIRLINES,Consulting fees,"$56,202",Cuba
+TXN1757,Microsoft,KIM JONG UN,Consulting fees,"$300,000",North Korea
+TXN4821,Global Health Foundation,AL-BARAKAAT,Grant disbursement,"$110,000",Somalia
+TXN2964,AEROCARIBBEAN AIRLINES,ROSNEFT,Grant disbursement,"$1,510,000",Russia
+TXN3059,PETROLEOS DE VENEZUELA S.A.,ROSNEFT,Payment for services,"$3,620,000",Russia
+TXN1944,Microsoft,SovCo Capital Partners,Project funding,"$31,357",Japan
+TXN5408,Microsoft,Global Health Foundation,Grant disbursement,"$14,014",UK
+TXN7732,AL-BARAKAAT,ABC GmbH,Consulting fees,"$700,000",Canada
+TXN6883,Microsoft,Save the Children,Payment for services,"$8,867",Somalia
+TXN8176,AEROCARIBBEAN AIRLINES,Green Earth Org,Payment for services,"$160,000",USA
+TXN2923,Microsoft,XYZ Ltd,Payment for services,"$15,404",Canada
+TXN7841,PETROLEOS DE VENEZUELA S.A.,AEROCARIBBEAN AIRLINES,Goods purchase,"$1,570,000",Cuba
+TXN5200,Microsoft,Global Health Foundation,Grant disbursement,"$26,245",Panama
+TXN8848,Green Earth Org,ROSNEFT,Payment for services,"$320,000",Russia
+TXN3283,Save the Children,"CIMEX, S.A.",Project funding,"$220,000",Cuba
+TXN5900,KIM JONG UN,KIM JONG UN,Grant disbursement,"$3,490,000",North Korea
+TXN9209,Save the Children,SovCo Capital Partners,Grant disbursement,"$74,445",North Korea
+TXN2256,CASA DE CUBA,ABC GmbH,Grant disbursement,"$730,000",USA
+TXN3375,SovCo Capital Partners,Microsoft,Payment for services,"$46,890",Cayman Islands
+TXN3083,Microsoft,SovCo Capital Partners,Project funding,"$16,490",Iran
+TXN1158,KIM JONG UN,Global Health Foundation,Project funding,"$340,000",Canada
+TXN5677,Microsoft,SovCo Capital Partners,Grant disbursement,"$44,745",Canada
+TXN3474,Global Health Foundation,KIM JONG UN,Grant disbursement,"$160,000",North Korea
+TXN5707,Save the Children,Green Earth Org,Goods purchase,"$35,288",Germany
+TXN2986,RUSSIAN NATIONAL COMMERCIAL BANK,ISLAMIC REVOLUTIONARY GUARD CORPS,Goods purchase,"$1,430,000",Iran
+TXN3866,Apple Inc,Apple Inc,Payment for services,"$27,226",Cayman Islands
+TXN5911,CASA DE CUBA,CCMI,Consulting fees,"$340,000",USA
+TXN6841,Save the Children,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$320,000",Russia
+TXN7903,Acme Corp,AL-BARAKAAT,Payment for services,"$270,000",Somalia
+TXN7073,KIM JONG UN,Acme Corp,Payment for services,"$120,000",Canada
+TXN8968,Acme Corp,Microsoft,Consulting fees,"$4,821",UK
+TXN5945,Microsoft,XYZ Ltd,Grant disbursement,"$17,880",Mauritius
+TXN9105,XYZ Ltd,Microsoft,Grant disbursement,"$21,031",Germany
+TXN6830,CCMI,CCMI,Payment for services,"$29,884",UK
+TXN1214,SovCo Capital Partners,Global Health Foundation,Goods purchase,"$29,672",Russia
+TXN9671,KIM JONG UN,Microsoft,Consulting fees,"$630,000",USA
+TXN4938,XYZ Ltd,Save the Children,Consulting fees,"$18,651",Mauritius
+TXN1418,Global Health Foundation,BANCO NACIONAL DE CUBA,Consulting fees,"$120,000",Cuba
+TXN6655,PETROLEOS DE VENEZUELA S.A.,SovCo Capital Partners,Project funding,"$630,000",USA
+TXN2317,Acme Corp,RUSSIAN NATIONAL COMMERCIAL BANK,Grant disbursement,"$490,000",Russia
+TXN1036,Microsoft,RUSSIAN NATIONAL COMMERCIAL BANK,Goods purchase,"$180,000",Russia
+TXN8693,Save the Children,RUSSIAN NATIONAL COMMERCIAL BANK,Goods purchase,"$190,000",Russia
+TXN5850,Green Earth Org,ROSNEFT,Payment for services,"$370,000",Russia
+TXN5598,AEROCARIBBEAN AIRLINES,Acme Corp,Project funding,"$350,000",Germany
+TXN9934,Green Earth Org,Microsoft,Payment for services,"$9,915",USA
+TXN5267,Microsoft,CCMI,Consulting fees,"$20,658",Venezuela
+TXN4430,Apple Inc,Global Health Foundation,Goods purchase,"$39,062",UK
+TXN1351,ISLAMIC REVOLUTIONARY GUARD CORPS,ABC GmbH,Goods purchase,"$480,000",USA
+TXN1800,XYZ Ltd,Microsoft,Grant disbursement,"$7,971",Germany
+TXN2450,ABC GmbH,Global Health Foundation,Payment for services,"$28,354",Mauritius
+TXN1279,AEROCARIBBEAN AIRLINES,Global Health Foundation,Project funding,"$400,000",Japan
+TXN5686,XYZ Ltd,BANCO NACIONAL DE CUBA,Consulting fees,"$320,000",Cuba
+TXN6775,ABC GmbH,RUSSIAN NATIONAL COMMERCIAL BANK,Project funding,"$380,000",Russia
+TXN8619,BANCO NACIONAL DE CUBA,AL-BARAKAAT,Grant disbursement,"$1,870,000",Somalia
+TXN1536,Global Health Foundation,Save the Children,Consulting fees,"$48,335",Germany
+TXN4254,Global Health Foundation,Global Health Foundation,Payment for services,"$16,371",Panama
+TXN2349,ISLAMIC REVOLUTIONARY GUARD CORPS,Global Health Foundation,Grant disbursement,"$550,000",UK
+TXN1255,Microsoft,Apple Inc,Payment for services,"$54,273",Russia
+TXN9552,Save the Children,AL-BARAKAAT,Project funding,"$270,000",Somalia
+TXN1782,XYZ Ltd,Green Earth Org,Goods purchase,"$10,028",Venezuela
+TXN4994,SovCo Capital Partners,ISLAMIC REVOLUTIONARY GUARD CORPS,Goods purchase,"$300,000",Iran
+TXN3357,KIM JONG UN,KIM JONG UN,Goods purchase,"$2,190,000",North Korea
+TXN5068,KIM JONG UN,Global Health Foundation,Payment for services,"$130,000",USA
+TXN2714,ISLAMIC REVOLUTIONARY GUARD CORPS,KIM JONG UN,Project funding,"$1,700,000",North Korea
+TXN6084,AEROCARIBBEAN AIRLINES,Save the Children,Grant disbursement,"$700,000",Japan
+TXN5230,Acme Corp,Microsoft,Goods purchase,"$4,831",Germany
+TXN7528,CASA DE CUBA,AL-BARAKAAT,Project funding,"$3,170,000",Somalia
+TXN1899,Microsoft,Microsoft,Goods purchase,"$43,813",Cayman Islands
+TXN3158,SovCo Capital Partners,ABC GmbH,Payment for services,"$31,754",Panama
+TXN8989,Apple Inc,Green Earth Org,Project funding,"$37,749",Iran
+TXN5527,Green Earth Org,Apple Inc,Grant disbursement,"$10,587",Canada
+TXN7077,Acme Corp,Global Health Foundation,Grant disbursement,"$49,640",Panama
+TXN3166,SovCo Capital Partners,ROSNEFT,Grant disbursement,"$380,000",Russia
+TXN4649,Microsoft,AEROCARIBBEAN AIRLINES,Grant disbursement,"$200,000",Cuba
+TXN2932,Save the Children,SovCo Capital Partners,Payment for services,"$39,773",Russia
+TXN6820,AL-BARAKAAT,BANCO NACIONAL DE CUBA,Grant disbursement,"$1,880,000",Cuba
+TXN7925,XYZ Ltd,Apple Inc,Consulting fees,"$23,843",Cayman Islands
+TXN4269,Save the Children,AL-BARAKAAT,Project funding,"$420,000",Somalia
+TXN3077,CCMI,Acme Corp,Goods purchase,"$9,579",Mauritius
+TXN6613,Global Health Foundation,Acme Corp,Project funding,"$43,082",Somalia
+TXN4725,Apple Inc,Apple Inc,Consulting fees,"$28,153",Somalia
+TXN9243,ISLAMIC REVOLUTIONARY GUARD CORPS,Acme Corp,Goods purchase,"$130,000",Canada
+TXN4226,"CIMEX, S.A.",ISLAMIC REVOLUTIONARY GUARD CORPS,Project funding,"$2,220,000",Iran
+TXN7765,Apple Inc,RUSSIAN NATIONAL COMMERCIAL BANK,Goods purchase,"$370,000",Russia
+TXN6265,Green Earth Org,RUSSIAN NATIONAL COMMERCIAL BANK,Consulting fees,"$250,000",Russia
+TXN3758,XYZ Ltd,RUSSIAN NATIONAL COMMERCIAL BANK,Project funding,"$200,000",Russia
+TXN8389,ABC GmbH,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$430,000",Russia
+TXN6755,CCMI,ABC GmbH,Project funding,"$86,846",Venezuela
+TXN5248,CCMI,Apple Inc,Goods purchase,"$36,995",Venezuela
+TXN7637,Acme Corp,Acme Corp,Consulting fees,"$18,871",USA
+TXN7679,KIM JONG UN,Green Earth Org,Project funding,"$880,000",Germany
+TXN9069,SovCo Capital Partners,Acme Corp,Goods purchase,"$2,567",USA
+TXN6706,Green Earth Org,PETROLEOS DE VENEZUELA S.A.,Goods purchase,"$260,000",Venezuela
+TXN1973,SovCo Capital Partners,RUSSIAN NATIONAL COMMERCIAL BANK,Payment for services,"$400,000",Russia
+TXN2752,XYZ Ltd,Microsoft,Grant disbursement,"$30,775",Venezuela
+TXN5660,SovCo Capital Partners,AEROCARIBBEAN AIRLINES,Payment for services,"$490,000",Cuba
+TXN8532,Acme Corp,Apple Inc,Goods purchase,"$23,786",Mauritius
+TXN8078,RUSSIAN NATIONAL COMMERCIAL BANK,Acme Corp,Payment for services,"$180,000",Japan
+TXN7369,Microsoft,Acme Corp,Payment for services,"$2,071",Germany
+TXN2526,ABC GmbH,Green Earth Org,Goods purchase,"$18,700",Cayman Islands
+TXN7326,Acme Corp,BANCO NACIONAL DE CUBA,Project funding,"$89,502",Cuba
