@@ -19,7 +19,7 @@ Large Language Model (LLM) leverages multiple data sources for references. \
 e.g. \
     * SEC-DATA - this data can be fetched in batches as required and LLM will update its knowledge base\
     * Wikipedia - LLM can leverage knowledge from wikipedia in near realtime\
-    * Social Media - currently LLM will refere to latest data from X (Twitter) in near real time\
+    * Social Media - currently LLM will refere to latest data from X (Twitter) in near real time.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -34,14 +34,18 @@ Large Language Model (LLM) leverages multiple data sources for references. \
 e.g. \
     * SEC-DATA - this data can be fetched in batches as required and LLM will update its knowledge base\
     * Wikipedia - LLM can leverage knowledge from wikipedia in near realtime\
-    * Social Media - currently LLM will refere to latest data from X (Twitter) in near real time\
+    * Social Media - currently LLM will refere to latest data from X (Twitter) in near real time.
 
 ## ⚙️ What It Does
 Our application leverages power of LLM model to fetch relevant answers from data sources. 
-We have automated fetching of records from social media in near real-time so that model's knowledge base can be up-to-date.\
+We have automated fetching of records from social media in near real-time so that model's knowledge base can be up-to-date.
+
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+we have leveraged huggingface APIs for building LLM pipelines.\
+We have used "gemma2:2b" and google's "flan t5" for Q&A retrival and "distilroberta" for calculating risk score.\
+Knowledge base for LLM is using ChromaDB as vector database.\
+For data ingestion, we are using edgartools along with tweey.
 
 ## 🚧 Challenges We Faced
 Describe the major technical or non-technical challenges your team encountered.
