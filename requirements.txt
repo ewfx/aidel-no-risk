@@ -1,0 +1,12 @@
+langchain_community
+pypdf
+unstructured
+faiss-gpu
+sentence_transformers
+huggingface_hub
+wikipedia
+tweepy
+python-dotenv
+edgartools
+streamlit
+torch
