@@ -29,7 +29,12 @@ e.g. \
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+This project enables a user to query a large Language Model regarding financial details of any company. 
+Large Language Model (LLM) leverages multiple data sources for references. \
+e.g. \
+    SEC-DATA - this data can be fetched in batches as required and LLM will update its knowledge base\
+    Wikipedia - LLM can leverage knowledge from wikipedia in near realtime\
+    Social Media - currently LLM will refere to latest data from X (Twitter) in near real time\
 
 ## ⚙️ What It Does
 Explain the key features and functionalities of your project.
