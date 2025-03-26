@@ -37,7 +37,8 @@ e.g. \
     * Social Media - currently LLM will refere to latest data from X (Twitter) in near real time\
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+Our application leverages power of LLM model to fetch relevant answers from data sources. 
+We have automated fetching of records from social media in near real-time so that model's knowledge base can be up-to-date.\
 
 ## 🛠️ How We Built It
 Briefly outline the technologies, frameworks, and tools used in development.
