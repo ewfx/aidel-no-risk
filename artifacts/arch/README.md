@@ -4,7 +4,7 @@ Workflow :
 ![Alt text](https://cdn-lfs-us-1.hf.co/repos/13/3d/133d8ca2460bf82ba2bdbe928d91a6c780364a6d0cf9005087db081cca492c02/ed22547b1538ea4fd18ea26777e14d9f7e51b3388b34d3cadf165cc37a7f63e0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27RAG_workflow.png%3B+filename%3D%22RAG_workflow.png%22%3B&response-content-type=image%2Fpng&Expires=1742993952&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mjk5Mzk1Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zLzEzLzNkLzEzM2Q4Y2EyNDYwYmY4MmJhMmJkYmU5MjhkOTFhNmM3ODAzNjRhNmQwY2Y5MDA1MDg3ZGIwODFjY2E0OTJjMDIvZWQyMjU0N2IxNTM4ZWE0ZmQxOGVhMjY3NzdlMTRkOWY3ZTUxYjMzODhiMzRkM2NhZGYxNjVjYzM3YTdmNjNlMD9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=iWCs2ogL7nMxBP9zfKQgnRYZi9-KNd9lksrztM8c9s7yJBAEl6RKpdv9ButJKGmS932TJkPrNOZGqcRZPusHbqGprf2QCDaCIkFF0RW8MUgLfTNX%7EfBb3%7EpKSwmTvCQULsAaJy0UXojouqMSxSQUVOtEIReeotMU2KZ05NcajX8eDBg0LXgzLoh37qlwXBqMbQXv61-rnYtULSDHO5PfkksfWY2bFE1FNORLCWRmXTzEm6BiAn29Ao0cXla5mrX9Z9sCYMTP3SJV2%7EBBctluV8rBVKaSgOuC9%7EXv3QicOgB%7EoWUa7FZKHUGlEX49xYXVe7kO5NXALikv7fXNrTOgbA__&Key-Pair-Id=K24J24Z295AEI9 "RAG flow")
 
 ## Idea: 
-   1. Use latest data available to fetch relevant results for user's query.
+   1. Use latest data available on internet to fetch relevant results for user's query.
    2. Combine results with financial data and calculate risk score for the query.
 
 ## Workflow
