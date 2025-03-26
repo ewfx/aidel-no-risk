@@ -15,11 +15,11 @@
 
 ## 🎯 Introduction
 This project enables a user to query a large Language Model regarding financial details of any company. 
-Large Language Model (LLM) leverages multiple data sources for references. 
-e.g. 
-    SEC-DATA - this data can be fetched in batches as required and LLM will update its knowledge base
-    Wikipedia - LLM can leverage knowledge from wikipedia in near realtime
-    Social Media - currently LLM will refere to latest data from X (Twitter) in near real time
+Large Language Model (LLM) leverages multiple data sources for references. \
+e.g. \
+    SEC-DATA - this data can be fetched in batches as required and LLM will update its knowledge base\
+    Wikipedia - LLM can leverage knowledge from wikipedia in near realtime\
+    Social Media - currently LLM will refere to latest data from X (Twitter) in near real time\
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -65,10 +65,10 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Frontend: streamlit
+- 🔹 Backend: Huggingface APIs
+- 🔹 Vector Database: ChromaDb
+- 🔹 Other: edgartools
 
 ## 👥 Team
 - **Your Name** - [GitHub](#) | [LinkedIn](#)
