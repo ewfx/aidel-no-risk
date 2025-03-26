@@ -55,7 +55,7 @@ There were three major challenges for solving this problem.
   LLMs is a different universe when it comes to fine-tuning and it was quite an experience to learn how to process dataset and train/fine tune a model.\
 - Second was infrastracture issues where even pre-trained models were giving an "out of memory" exception.\
   Then, there were package incompatibility issues or models would not load unless GPU was available.
-- Third and 
+- Third was to understand what model does what. Huggingface has a huge collection of models and datasets and it was difficult to choose an appropriate one.
    
 
 ## 🏃 How to Run
