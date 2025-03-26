@@ -50,8 +50,13 @@ For data ingestion, we are using edgartools along with tweepy.
 
 ## 🚧 Challenges We Faced
 There were three major challenges for solving this problem. 
-- First and foremost was knowledge. This problem is an open ended problem and wenhad a tough time nailing down what we wanted our application to achieve.
-  We started with looking for appropriate dataset to train LLM and once we had it narrowed down we ran into next challenges.
+- First and foremost was knowledge. This problem is an open ended problem and we had a tough time nailing down what we wanted our application to achieve.\
+  We started with looking for appropriate dataset to train LLM and once we had it narrowed down we ran into next challenges.\
+  LLMs is a different universe when it comes to fine-tuning and it was quite an experience to learn how to process dataset and train/fine tune a model.\
+- Second was infrastracture issues where even pre-trained models were giving an "out of memory" exception.\
+  Then, there were package incompatibility issues or models would not load unless GPU was available.
+- Third and 
+   
 
 ## 🏃 How to Run
 1. Clone the repository  
