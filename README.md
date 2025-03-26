@@ -46,10 +46,12 @@ we have leveraged huggingface APIs for building LLM pipelines.\
 Our initial aim was to train an LLM on data from SEC-EDGAR and social media. However, it proved to be a bigger challenge due to infrastructure and time constraints.
 We have used "gemma2:2b" and google's "flan t5" for Q&A retrival and "distilroberta" for calculating risk score.\
 Knowledge base for LLM is using ChromaDB as vector database.\
-For data ingestion, we are using edgartools along with tweey.
+For data ingestion, we are using edgartools along with tweepy.
 
 ## 🚧 Challenges We Faced
-There were two major challenges for solving this problem. One was how
+There were three major challenges for solving this problem. 
+- First and foremost was knowledge. This problem is an open ended problem and wenhad a tough time nailing down what we wanted our application to achieve.
+  We started with looking for appropriate dataset to train LLM and once we had it narrowed down we ran into next challenges.
 
 ## 🏃 How to Run
 1. Clone the repository  
